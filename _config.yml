@@ -1,110 +1,60 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+#--------------------------
+# General site settings
+baseurl: ""
+url: ""
 
-title: Eugène Rodolphe
-email: mazamdatangueu@et.intechinfo.fr
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Author Settings
-author:
-  name: Eugène Rodolphe Mazamda Tangueu
-  image: ''
-
-# contact link 
-contact:
-- {name: "LinkedIn", icon: "ion-logo-linkedin", link: "https://twitter.com"}
-- {name: "Facebook", icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {name: "Github", icon: "ion-logo-github", link: "https://dribbble.com"}
-- {name: "Gitlab", icon: "ion-logo-gitlab", link: "https://instagram.com"}
-- {name: "Email", icon: "ion-ios-mail", link: "mailto:mazamdatangueu@et.intechinfo.fr"}
-
-# Slide Section
-slider: Life
-
-# Gallery Footer Section
-gallery:
-  name: Gallery /
-  link: 
-  link-name: Unsplash
-  images:
-
-
-# Google analytics
-google-analytics:  # Add your identifier. For example UA-99631805-1.
-
+#------------------
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown: kramdown 
+permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 9
-paginate_path: "/page/:num"
+paginate: 6
+paginate_path: "/blog/page:num"
+
+# collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: ""
     values:
-      permalink: /:basename:output_ext
-
-include:
-  - _pages
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+tag_permalink_style:  /:title
 
-# Skills Techs
-skills_page_dir: skill
-skills_page_layout: skills_page.html
-skills_permalink_style:  pretty
-
+# Sass config
 sass:
   sass_dir: _sass
   style: compressed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
