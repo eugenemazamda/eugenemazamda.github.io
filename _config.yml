@@ -80,6 +80,11 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
+# Skills Techs
+skills_page_dir: skill
+skills_page_layout: skills_page.html
+skills_permalink_style:  pretty
+
 sass:
   sass_dir: _sass
   style: compressed
