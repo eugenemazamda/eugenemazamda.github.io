@@ -37,7 +37,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Eugene Rodolphe MAZAMDA TANGUEU
   title: Bonjour, je suis Eugene MAZAMDA
-  bio: Architecte Cloud & DevOps basé en France, je met en oeuvres des architecture cloud, conception des plateformes web, automatisation et industrialisation des services clouds. Quand je ne travaille pas, je suis probablement en train de cuisiner ou de voyager quelque part dans le monde. 
+  bio: Architecte Junior Cloud & DevOps basé en France, je met en oeuvres des architecture cloud, conception des plateformes web, automatisation et industrialisation des services clouds. Quand je ne travaille pas, je suis probablement en train de cuisiner ou de voyager quelque part dans le monde. 
   image: '/images/me.jpg'
   avatar: '/images/avatar.jpg'
   button__text: Mes réalisations
@@ -82,7 +82,7 @@ testimonial-items:
 # Blog Section
 
 blog__settings:
-  blog__title: Posts <span class="text-span">Blog</span> Récents # Add a 'text-span' class to highlight text.
+  blog__title: Mes <span class="text-span">Compétences </span> # Add a 'text-span' class to highlight text.
   blog__description:
 
 
