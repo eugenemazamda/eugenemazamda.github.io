@@ -90,12 +90,11 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: your@email.com # Add your email for contact form
-  contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
-  contact__description: Avenco comes with a built-in contact form. # Add a description to your form
+  contact__email: mazamdatangueu@et.intechinfo.fr # Add your email for contact form
+  contact__title: <span class="text-span">Prenez</span> Contact # Add a title to your form
+  contact__description: Formulaire de contact. # Add a description to your form
 
 # NOTE
-# Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
 
 #-------------------------------
@@ -123,9 +122,9 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-linkedin", link: "https://twitter.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-gitlab", link: "https://pinterest.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/eug%C3%A8ne-rodolphe-mazamda-tangueu-82612b151/"}
+- {icon: "ion-logo-github", link: "https://github.com/eugenemazamda"}
+- {icon: "ion-logo-gitlab", link: "https://gitlab.com/rodolphemazamda"}
 - {icon: "ion-logo-facebook", link: "https://codepen.io"}
 - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
 - {icon: "ion-logo-youtube", link: "https://youtube.com"}
