@@ -23,6 +23,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
+  skills:
+    output: true
+    permalink: /skillshumans/:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -43,6 +46,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "skills"
+    values:
+      layout: "skill"
   - scope:
       path: ""
       type: "projects"
