@@ -85,6 +85,12 @@ blog__settings:
   blog__title: Mes <span class="text-span">Compétences </span> # Add a 'text-span' class to highlight text.
   blog__description:
 
+#-----------------------
+# Skills Human
+skills__settings:
+  skills__title: Mes <span class="text-span">Compétences Humaine</span>
+  skills__description:
+
 
 #-------------------------------
 # Contact Settings
