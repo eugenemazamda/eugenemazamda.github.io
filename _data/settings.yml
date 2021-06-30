@@ -59,23 +59,28 @@ testimonial__title: Mon <span class="text-span">Equipe</span> # Add a 'text-span
 testimonial-items:
   - name: "Alexandre CHHAN"
     image: "/images/client-1.jpg"
-    designation : "Traveler"
+    designation : "Manager Flying Squad"
     content : "Mettre le témoinages Alexandre ici et la photo si possible."
 
   - name: "Guillaume F"
     image: "/images/client-2.jpg"
-    designation : "Designer"
+    designation : "Architecte Cloud - Azure"
     content : "Mettre le témoinages de Guillaume ici et la photo si possible !!!."
 
   - name: "Noël"
     image: "/images/client-3.jpg"
-    designation : "CEO, Founder"
+    designation : "Architecte Cloud - AWS "
     content : "Mettre le témoinages de Noël ici et la photo si possible !!!."
 
   - name: "Salim LE BIHAN"
     image: "/images/client-4.jpg"
-    designation : "Full stack developer"
+    designation : "Consultant Cloud - Chef de projects"
     content : "Mettre le témoinages de Salim et la photo si possible  ici !!!."
+
+  - name: "Cheick Traore"
+    image: "/images/client-4.jpg"
+    designation : "Architecte Cloud"
+    content : "Mettre le témoinages de Cheick et la photo si possible  ici !!!."
 
 
 #-------------------------------
