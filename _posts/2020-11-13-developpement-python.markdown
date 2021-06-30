@@ -5,24 +5,29 @@ date:   2020-11-13 15:01:35 +0300
 image:  '/images/02.jpg'
 tags:   [dev, cloud, python]
 ---
-Developpement de plusieurs APIs pour en la mise sous infogérance des différents assets cloud des clients LinkByNet, le developpement de ses APIs sont mis en production via des Azure Functions (Serverless).
+Developpement de plusieurs APIs pour en la mise sous infogérance des différents assets cloud des clients LinkByNet, le developpement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.
+
+J'utilise ce langage de programmation dans la plutard de mes projects réaliser en entreprise. 
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/project-5.jpg" alt="Project">
     <img src="/images/project-6.jpg" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Gallery</em>
 </div>
 
-In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.
+> Azure Function ?
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Azure Functions est une solution serverless qui vous permet d’écrire moins de code, de maintenir une infrastructure plus légère et de réduire les coûts. Au lieu de vous préoccuper du déploiement et de la maintenance des serveurs, l’infrastructure cloud met à votre disposition tous les serveurs à jour nécessaires pour assurer l’exécution de vos applications.
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
+Vous vous concentrez sur les parties de code les plus importantes pour vous, et Azure Functions s’occupe du reste. 
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+> Mise en pratique 
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
+- Dans le project **DIA (Deploiement Infrastructure Automatisé)** j'ai repris un projet commencé par un collaborateur et le mettre en production 
+- Developpement d'une API d'authentification sur les différentes souscriptions des clients de LinkByNet 
+- Developpement d'une API qui permet de récupérer des credentials de connexions à des souscriptions de nos différents clients 
+- Developpement des API de sauvegarde du service **Azure Databricks** pour Sodexo 
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+***

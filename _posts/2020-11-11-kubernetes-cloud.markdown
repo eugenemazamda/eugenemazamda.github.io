@@ -3,26 +3,39 @@ layout: post
 title:  Kubernetes Cloud [Azure Kubernetes (AKS)]
 date:   2020-11-11 15:01:35 +0300
 image:  '/images/04.jpg'
-tags:   [kube, cloud]
+tags:   [kube, cloud, Linkbynet]
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.
+
+> Qu'est-ce que Kubernetes (K8s) ?
+
+C'est un système open-source permettant d'automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées 
+
+[ Documentation Source](https://kubernetes.io/fr/){:target="_blank"}
+
+> Qu'est-ce que Azure Kubernetes (AKS) ?
+
+c’est un orchestrateur de conteneur complétement managé, facilite le déploiement et la gestion d’applications conteneurisées. Il offre une expérience d’intégration continue et de livraison continue (CI/CD) Kubernetes serverless, ainsi qu’une sécurité et une gouvernance de classe Entreprise. Il réunit les équipes dédiées aux déploiements et aux opérations sur une même plateforme pour rapidement créer, livrer et mettre à l’échelle des applications en toute confiance.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
+    <img src="/images/kube.jpg" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Architecture Kubernetes LbnPuzzle</em>
 </div>
 
-In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.
+Kuberntes se base sur un images pour générer des conteneurs, par contre ses images sont stockées dans un régistre privée ou publique.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+- **Registre Images** : : c’est une application qui permet de distribuer des images docker au sein d’un environnement. Une image docker est en quelque sorte une image disque qui contient l’arborescence d’une distribution Linux, Windows, le code source d’une application et des binaires capables de le faire tourner.
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/registre.jpg" alt="Project">
+  </div>
+  <em>Architecture Déploiement d'images vers Kubernetes LbnPuzzle</em>
+</div>
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+> Monter en compétences sur Kubernetes
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
+Malgré que le project qui me permettais de mettre en oeuvre cette compétences soit arréter, je continue à monter en compétence sur la technologie en auto-formation dans mon temps personnelle. 
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+- J'utilise beaucoup la solution Kubernetes de Google Cloud *[ Je publirais un blog par rapport au sujet dans les jours ou mois à venir]*
