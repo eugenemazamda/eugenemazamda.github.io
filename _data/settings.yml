@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 
-title: Eugene Rodolphe
+title: Eugene MAZAMDA
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Eugene – Portfolio pour la soutenance master IN'TECH
 
@@ -15,7 +15,7 @@ menu__settings:
       submenu:
       - url: '/blog/'
         title: 'Téchniques'
-      - url: '/skillshumans/'
+      - url: '/blog/skillshumans/'
         title: 'Humaines'
     - title: 'Pages'
       submenu:
@@ -37,7 +37,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Eugene Rodolphe MAZAMDA TANGUEU
   title: Eugene MAZAMDA 
-  bio: Architecte Junior Cloud & DevOps basé en France, je met en oeuvres des architecture cloud, conception des plateformes web, automatisation et industrialisation des services clouds. Quand je ne travaille pas, je suis probablement en train de cuisiner ou de voyager quelque part dans le monde. 
+  bio: Architecte Junior Cloud & DevOps basé en France, je met en oeuvres des architecture cloud, conception des plateformes web, automatisation et industrialisation des services cloud. Quand je ne travaille pas, je suis probablement en train de cuisiner ou de voyager quelque part dans le monde. 
   image: '/images/me.jpg'
   avatar: '/images/avatar.jpg'
   button__text: Mes réalisations
@@ -48,7 +48,7 @@ author:
 
 projects__settings:
   projects__title: Dernières <span class="text-span">Réalisations</span> # Add a 'text-span' class to highlight text.
-  projects__description: Je vous presente les meilleures réalisations web , cloud et DevOps construits entièrement avec passion, simplicité et créativité !
+  projects__description: Je vous presente mes meilleures réalisations web , cloud et DevOps construits entièrement avec passion, simplicité et créativité !
 
 
 #-------------------------------
@@ -57,10 +57,15 @@ projects__settings:
 testimonial__title: Mon <span class="text-span">Equipe</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
-  - name: "Alexandre CHHAN"
+  - name: "Karim EL KAIAL"
     image: "/images/client-1.jpg"
-    designation : "Manager Flying Squad"
-    content : "Mettre le témoinages Alexandre ici et la photo si possible."
+    designation : "Architecte Unix"
+    content : "Eugène est une personne Gentil, sociable, à l'écoute, assidu. Comme points fort, il est motiver, autonome dans son travail, éfficace, polyvalent dans le domaine et surtout curieux"
+
+  - name: "Thomas PELTIER"
+    image: "/images/client-1.jpg"
+    designation : "Ingénieur Infra-IT"
+    content : "Eugène est Agréable à vivre, à l'écoute de ses collègues avec beaucoup d'empathie, travailleur, motivé, déterminé et très ambitieux. Il est une personne attachant, comme amélioration à faire, il faut qu'il s'affirme un peu plus auprès des autres collaborateurs"
 
   - name: "Guillaume F"
     image: "/images/client-2.jpg"
@@ -82,15 +87,23 @@ testimonial-items:
     designation : "Architecte Cloud"
     content : "Mettre le témoinages de Cheick et la photo si possible  ici !!!."
 
+  - name: "Adam BAEZA"
+    image: "/images/client-4.jpg"
+    designation : "Ingénieur Réseaux"
+    content : "Eugène est une personne agréable qui à une volonté d'apprendre. C'est une personne avec une bonne connaissance du cloud public. Comme axes d'amélioration Eugène ne se prononce pas. En deux mots C'est une personne Avenant et Sympathique"
+
+  - name: "Gaëtan ONAHETA"
+    image: "/images/client-4.jpg"
+    designation : "Architecte Unix"
+    content : "Eugène sait écouter et comprendre (c'est rare aujourd'hui), très agile, s'adapte et répond au besoin ou changements demandés. Très organisé dans son travail, il est transparent le long de son projet. Selon moi, son atout majeur, c'est sa capacité d'analyse, elle lui permet de voir large afin de poser les bonnes questions et de répondre de manière ciblée, efficace et pertinente avec des solutions techniques adaptées, claires et précises."
 
 #-------------------------------
 # Blog Section
 
 blog__settings:
-  blog__title: Mes <span class="text-span">Compétences </span> # Add a 'text-span' class to highlight text.
+  blog__title: Mes <span class="text-span">Compétences Techniques</span> # Add a 'text-span' class to highlight text.
   blog__description:
 
-#-----------------------
 # Skills Human
 skills__settings:
   skills__title: Mes <span class="text-span">Compétences Humaine</span>

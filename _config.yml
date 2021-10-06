@@ -13,7 +13,8 @@ plugins:
   - jekyll/tagging
 
 paginate: 6
-paginate_path: "/blog/page:num"
+paginate_path: "/blog/page:num/"
+# paginate_path: "/skillshumans/page:num"
 
 # collections
 collections:
@@ -25,10 +26,10 @@ collections:
     permalink: /blog/:slug
   skills:
     output: true
-    permalink: /skillshumans/:slug
+    permalink: /blog/skillshumans/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /projects/:slug
 
 # Pages Path
 defaults:

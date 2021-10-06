@@ -1,0 +1,31 @@
+<!-- begin skill humans -->
+<section class="section blog">
+    <div class="container">
+        <div class="row">
+            <div class="col col-12">
+                <div class="contaniner__inner animate">
+
+                    <div class="section__info">
+                        <div class="section__head">
+                            <h2 class="section__title">{{ site.data.settings.skills__settings.skills__title }}</h2>
+                            <a class="section__link" href="{{ '/blog/skillshumans' | relative_url }}"> Tous <i class="ion ion-md-arrow-forward"></i></a>
+                        </div>
+                        {% if site.data.settings.skills__settings.skills__description %}
+                        <p class="section__description">{{ site.data.settings.skills__settings.skills__description }}</p>
+                        {% endif %}
+                    </div>
+
+                    <div class="row">
+                        {% if site.posts.size > 0 %}
+                            {% for post in site.skills offset:0 limit:3 %}
+                                {% include article-content.html %}
+                            {% endfor %}
+                        {% endif %}
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end skill humans -->
