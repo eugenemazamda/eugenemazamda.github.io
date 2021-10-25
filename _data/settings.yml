@@ -57,15 +57,15 @@ projects__settings:
 testimonial__title: Mon <span class="text-span">Equipe</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
+  - name: "Alexandre CHHAN"
+    image: "/images/client-2.jpg"
+    designation : "Manager Squad Architecte - Tuteur"
+    content : "Mettre le témoinages Alexandre ici et la photo si possible !!!."
+
   - name: "Karim EL KAIAL"
     image: "/images/client-1.jpg"
     designation : "Architecte Unix"
     content : "Eugène est une personne Gentil, sociable, à l'écoute, assidu. Comme points fort, il est motiver, autonome dans son travail, éfficace, polyvalent dans le domaine et surtout curieux"
-
-  - name: "Thomas PELTIER"
-    image: "/images/client-1.jpg"
-    designation : "Ingénieur Infra-IT"
-    content : "Eugène est Agréable à vivre, à l'écoute de ses collègues avec beaucoup d'empathie, travailleur, motivé, déterminé et très ambitieux. Il est une personne attachant, comme amélioration à faire, il faut qu'il s'affirme un peu plus auprès des autres collaborateurs"
 
   - name: "Guillaume F"
     image: "/images/client-2.jpg"
@@ -77,10 +77,25 @@ testimonial-items:
     designation : "Architecte Cloud - AWS "
     content : "Mettre le témoinages de Noël ici et la photo si possible !!!."
 
+  - name: "Thomas PELTIER"
+    image: "/images/client-1.jpg"
+    designation : "Ingénieur Infra-IT"
+    content : "Eugène est Agréable à vivre, à l'écoute de ses collègues avec beaucoup d'empathie, travailleur, motivé, déterminé et très ambitieux. Il est une personne attachant, comme amélioration à faire, il faut qu'il s'affirme un peu plus auprès des autres collaborateurs"
+
   - name: "Salim LE BIHAN"
     image: "/images/client-4.jpg"
     designation : "Consultant Cloud - Chef de projects"
-    content : "Mettre le témoinages de Salim et la photo si possible  ici !!!."
+    content : "Très bon élément, proactif et curieux, s'intégre facilement dans les équipes et apporte un véritable plus dans la cohésion, accepte et relève les challenges. Il doit détailler davantages les feedbacks. Eugène est a l'écoute, patient et prêt à aider. Bonne connaissance de Microsoft Azure. "
+
+  - name: "Louakal FEKIH"
+    image: "/images/client-4.jpg"
+    designation : "Ingénieur Windows"
+    content : "Eugène est une personne calme, très agréable, déterminé et avec qui c'est un plaisir de travailler. Bosseur, il n’hésitera pas a ce donner a 120% pour un projet et/ou un problème. Passionné, il intéresse a toute type d'innovation. Patience / Humilité / Respect sont 3 mots pour le qualifier."
+
+  - name: "Elhadj Oumar DOUMBOUYA"
+    image: "/images/client-4.jpg"
+    designation : "Ingénieur DevOps"
+    content : "Personne rigoureuse dans le travail, calme et sympathique, Forte capacité d'analyse, grande vitesse de compréhension, sérénité à toutes épreuves, Esprit d'équipe, Curiosité, Envie d'apprendre et de progresser. Avec Eugène les limites sont sans fin."
 
   - name: "Cheick Traore"
     image: "/images/client-4.jpg"
