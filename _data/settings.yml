@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 
-title: Eugene MAZAMDA
+title: Mazamda Tangueu
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Eugene – Portfolio pour la soutenance master IN'TECH
 
@@ -15,14 +15,17 @@ menu__settings:
       submenu:
       - url: '/blog/'
         title: 'Téchniques'
-      - url: '/blog/skillshumans/'
+      - url: '/blog/skillshumans'
         title: 'Humaines'
     - title: 'Pages'
       submenu:
       - url: '/about'
         title: 'About'
+      - url: '/formations'
+        title: 'Formations'
       - url: '/certifications'
         title: 'Certifications'
+      
 
 # Call to action button
 cta__button__text: Prenez Contact
@@ -36,7 +39,7 @@ cover__image: '/images/37.jpg'
 
 author:
   name: Eugene Rodolphe MAZAMDA TANGUEU
-  title: Eugene MAZAMDA 
+  title: Eugene Rodolphe 
   bio: Architecte Junior Cloud & DevOps basé en France, je met en oeuvres des architecture cloud, conception des plateformes web, automatisation et industrialisation des services cloud. Quand je ne travaille pas, je suis probablement en train de cuisiner ou de voyager quelque part dans le monde. 
   image: '/images/me.jpg'
   avatar: '/images/avatar.jpg'
@@ -70,7 +73,7 @@ testimonial-items:
   - name: "Guillaume F"
     image: "/images/client-2.jpg"
     designation : "Architecte Cloud - Azure"
-    content : "Mettre le témoinages de Guillaume ici et la photo si possible !!!."
+    content : "J'ai eu plaisir à échanger avec Eugène durant sa présence. ll est jovial, de bonne humeur et participe grandement à la bonne ambiance au travail.Au-delà de sa personnalité, une très bonne assiduité au travail, une volonté d'aller au fond des sujets et enfin une grande capacité d'autonomie pour trouver des solutions à des problèmes complexes."
 
   - name: "Noël"
     image: "/images/client-3.jpg"
@@ -112,6 +115,10 @@ testimonial-items:
     designation : "Architecte Unix"
     content : "Eugène sait écouter et comprendre (c'est rare aujourd'hui), très agile, s'adapte et répond au besoin ou changements demandés. Très organisé dans son travail, il est transparent le long de son projet. Selon moi, son atout majeur, c'est sa capacité d'analyse, elle lui permet de voir large afin de poser les bonnes questions et de répondre de manière ciblée, efficace et pertinente avec des solutions techniques adaptées, claires et précises."
 
+  - name: "Aure BERNIER"
+    image: "/images/client-2.jpg"
+    designation : "Project Manager"
+    content : "Très bonne personnalité, à l'écoute et toujours enthousiaste. La motivation et l'enthousiasme sont ses points forts. Il a une compréhension des autres qui est incroyable."
 #-------------------------------
 # Blog Section
 
