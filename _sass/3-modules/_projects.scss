@@ -137,3 +137,54 @@
     }
   }
 }
+
+/* 2.4 experiences */
+.experiences-info-wrapper{
+  box-shadow: 0px 0px 50px 0px rgba(136, 117, 117, 0.1);
+  padding: 30px;
+	position:relative;
+	background-color:#9719be00;
+	z-index:1;
+	text-align:left;
+	margin-bottom:40px;
+	
+}
+
+.experiences-info .col-md-6{
+	padding-right:30px;
+}
+.experiences-info-wrapper .experiences-datetime{
+	position: absolute;
+    right: -20px;
+    background : linear-gradient(332deg, $primary-color 0%, $secondary-color 250%);
+    color: #ffffff;
+    padding: 12px 20px;
+    top: 40px;
+	z-index:2;
+}
+.experiences-info-wrapper .experiences-datetime:before{
+    content: "";
+    background-image: url(../images/educational-history-before.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right:0;
+    bottom: -9px;
+    width: 20px;
+    height: 9px;
+    z-index: 1;
+	
+}
+.experiences-info-wrapper h3{
+	text-transform:uppercase;
+}
+.experiences-info-wrapper span{
+    font-size: 16px;
+    margin-bottom: 15px;
+    display: block;
+}
+.experiences-info-wrapper p{
+    margin:0px;
+	padding-right:70px;
+}

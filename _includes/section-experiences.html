@@ -1,0 +1,36 @@
+<!-- Start Experiences -->
+<section class="section projects" id="projects">
+    <div class="container">
+        <div class="row">
+            <div class="col col-12">
+                <div class="contaniner__inner animate">
+
+                    <div class="section__info">
+                        <div class="section__head">
+                            <h2 class="section__title">{{ site.data.settings.formations.formations_title }}</h2>
+                        </div>
+                        {% if site.data.settings.projects__settings.projects__description %}
+                            <p class="section__description">{{ site.data.settings.formations.formations_description}}</p>
+                        {% endif %}
+                    </div>
+
+                    <div class="experiences-info">
+                        <div class="row">
+                            {% for exp_data in site.data.experiences %}
+                            <div class="col-md-6 col-sm-12">
+                                <div class="experiences-info-wrapper wow fadeIn">
+                                    <div class="experiences-datetime">{{exp_data.year}}</div>
+                                    <h3>{{exp_data.title}}</h3>
+                                    <span>{{exp_data.designation}}</span>
+                                    <p>{{exp_data.desc}}</p>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

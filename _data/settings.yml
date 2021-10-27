@@ -21,8 +21,6 @@ menu__settings:
       submenu:
       - url: '/about'
         title: 'About'
-      - url: '/formations'
-        title: 'Formations'
       - url: '/certifications'
         title: 'Certifications'
       
@@ -130,6 +128,11 @@ blog__settings:
 skills__settings:
   skills__title: Mes <span class="text-span">Compétences Humaine</span>
   skills__description:
+
+# Formations
+formations:
+  formations_title: Mes <span class="text-span">Formations</span>
+  formations_description:
 
 
 #-------------------------------
