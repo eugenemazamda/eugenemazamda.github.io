@@ -2,7 +2,7 @@
 layout: post
 title:  DevOps & Cloud
 date:   2018-11-08 15:01:35 +0300
-image:  '/images/07.jpg'
+image:  '/images/devops_cloud.jpg'
 tags:   [devOps, cloud, git, Terraform]
 ---
 

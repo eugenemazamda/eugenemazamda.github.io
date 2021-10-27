@@ -2,7 +2,7 @@
 title: LbnPuzzle
 date: 2021-01-25 07:20:35 +0300
 subtitle: Plateforme de Challenge via Kubernetes
-image: '/images/project-7.jpg'
+image: '/images/kubernetes.png'
 ---
 
 Ce fameux projet qui m’a fait monter en compétences techniques et de m’affirmer dans mon équipe et avoir du crédit auprès de mon manager, une mention très bien à ma soutenance de fin de Bachelor . La compétence qui à été mise en avant ici est la **«Gestion et management des outils cloud»**

@@ -2,7 +2,7 @@
 layout: post
 title:  Programmation et Developpement Python 
 date:   2020-11-13 15:01:35 +0300
-image:  '/images/02.jpg'
+image:  '/images/python.png'
 tags:   [dev, cloud, python]
 ---
 Developpement de plusieurs APIs pour en la mise sous infogérance des différents assets cloud des clients LinkByNet, le developpement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.

@@ -2,7 +2,7 @@
 layout: post
 title:  Kubernetes Cloud [Azure Kubernetes (AKS)]
 date:   2020-11-11 15:01:35 +0300
-image:  '/images/04.jpg'
+image:  '/images/aks.png'
 tags:   [kube, cloud, Linkbynet]
 ---
 
