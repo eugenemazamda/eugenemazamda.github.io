@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Propos
-image: '/images/me.jpg'
+image: '/images/me1.jpg'
 ---
 
 Né le 10/01/1993 dans la petite ville Edéa (Littoral-Cameroun) ou j’ai passé 8 ans avant d’aller du côté de l’ouest Cameroun où j’ai eu mon baccalauréat scientifique en 2012 à 19 ans. Après cela, je suis allé à l’université de Dschang faire « Mathématiques & Informatique ».
@@ -10,7 +10,14 @@ Né le 10/01/1993 dans la petite ville Edéa (Littoral-Cameroun) ou j’ai pass�
 
 J’avais choisi cette filière car l’informatique est une passion depuis mon enfance avec pour référence ma mère qui exerçait dans le domaine d’ailleurs j’ai créé mon premier site internet à l’âge de 15 ans (2008) c’est un exploit dans ma ville. Mais mes années à l’université n’ont vraiment pas fonctionné comme je voulais, première déception de ma vie. Cela est arrivé à cause d’une mauvaise estime de moi et de l’influence que mes amis exercer sur ma personnalité. Par ailleurs, de cet échec j’ai eu une bonne leçon de vie par un adage de chez nous qui dit « Tant que le feu ne brûle pas l’enfant, celui-ci ne saura jamais que le feu est dangereux ». Pour dire que j’ai appris de mes erreurs de jeunesse.
 
-![Loneliness]({{site.baseurl}}/images/30.jpg)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/me2.jpg" alt="Project">
+    <img src="/images/me3.jpg" alt="Project">
+    <img src="/images/me4.jpg" alt="Project">
+  </div>
+  <!-- <em>Projects</em> -->
+</div>
 
 Comme si cela ne suffisait pas je me suis retrouvé complètement paralysé de toute la partie inférieure de mon corps et cela pendant 1 an, ce fut un coup dur, je me disais que tout était perdu (mes rêves et ma vie), mais j’ai une petite étincelle au fond de moi qui me disait d’y croire d’avoir confiance en moi et foi en Dieu, j’ai trouvé le courage de l’écouter et Dieu m’a guéri et m’a redonné le goût à la vie en 2015. Juste après cela j’ai été contacter par une ONG qui voulait s’installer au Cameroun et avait besoin d’un responsable informatique. Ce poste a ravivé ma flamme pour l’informatique. Ainsi je me retrouve au Sénégal en 2016, mon deuxième pays d’origine car mon père est Sénégalais. J’ai aussi pu retrouver mes racines et apprendre une nouvelle culture.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Certifications
-image: '/images/certifications.png'
+image: '/images/me5.jpg'
 ---
 
 > Certifications Microsoft Azure 
