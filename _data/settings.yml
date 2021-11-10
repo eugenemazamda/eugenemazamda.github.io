@@ -125,9 +125,9 @@ blog__settings:
   blog__description:
 
 # Skills Human
-skill__settings:
-  skill__title: Mes <span class="text-span">Compétences Humaine</span>
-  skill__description:
+skills__settings:
+  skills__title: Mes <span class="text-span">Compétences Humaine</span>
+  skills__description:
 
 # Formations
 formations:
