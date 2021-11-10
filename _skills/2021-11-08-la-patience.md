@@ -27,3 +27,12 @@ Face à cette compétence je dois trouver le moyen de faire valoir ce que je vau
 Je met à profit cette compétence dans tous mes projets personnel et professionnel. Je veux montrer au travers de cette compétence le plus important c’est ce que l’on vaut. Je compte suivre une formation sur la gestion du stress pour mieux le gérer.
 
 > Quels sont les réalisations associées à cette compétence ?
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/elan.png" alt="Project"></a>
+    <a href="https://www.credly.com/badges/cf471297-50f8-49f8-abaa-65043add9cae/public_url" target="_blank"><img src="/images/cyberskanda.png" alt="Project"></a>
+    <a href="https://www.credly.com/badges/79f6f82d-c371-4b93-8d95-3ec62e4c2c0d/public_url" target="_blank"><img src="/images/prometheus.png" alt="Project"></a>
+    <!-- <a href="https://www.credly.com/badges/e949f735-f8ac-4e0c-b6d6-fe5e71f47f9a/public_url" target="_blank"><img src="/images/samave.jpg" alt="Project"></a> -->
+  </div>
+</div>
