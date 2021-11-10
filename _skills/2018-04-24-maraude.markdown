@@ -1,9 +1,0 @@
----
-layout: skill
-title:  Maraude
-date:   2018-04-24 15:01:35 +0300
-image:  '/images/maraude.jpg'
-tags:   [travel, notes]
----
-
-A FAIRE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
