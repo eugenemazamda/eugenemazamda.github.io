@@ -10,9 +10,9 @@ description: Mes qualifications et compétences humaines developper tout au long
             <div class="page-head">
                 <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{site.data.settings.skills__settings.skills__title }}{% endif %}</h1>
                 {% if page.description %}
-                <p class="page-description">{{ page.description }}</p>
-                {% else site.data.settings.skills__settings.skills__description %}
-                <p class="page-description">{{ site.data.settings.skills__settings.skills__description }}</p>
+                    <p class="page-description">{{ page.description }}</p>
+                    {% else site.data.settings.skills__settings.skills__description %}
+                        <p class="page-description">{{ site.data.settings.skills__settings.skills__description }}</p>
                 {% endif %}
             </div>
         </div>
