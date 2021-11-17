@@ -1,7 +1,7 @@
 #--------------------------
 # General site settings
 baseurl: ""
-url: ""
+url: "https://eugenemazamda-cloud.com"
 
 #------------------
 # Build settings

@@ -55,7 +55,7 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: Mon <span class="text-span">Equipe</span> # Add a 'text-span' class to highlight text.
+testimonial__title: Mes <span class="text-span">Collaborateurs</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
   - name: "Alexandre CHHAN"

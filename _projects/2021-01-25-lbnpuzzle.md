@@ -5,11 +5,11 @@ subtitle: Plateforme de Challenge via Kubernetes
 image: '/images/kubernetes.png'
 ---
 
-Ce fameux projet qui m’a fait monter en compétences techniques et de m’affirmer dans mon équipe et avoir du crédit auprès de mon manager, une mention très bien à ma soutenance de fin de Bachelor . La compétence qui à été mise en avant ici est la **«Gestion et management des outils cloud»**
+Ce fameux projet qui m’a fait monter en compétences techniques et de m’affirmer dans mon équipe et avoir du crédit auprès de mon manager, une mention très bien à ma soutenance de fin de Bachelor . La compétence qui à été mise en avant ici est la **« Gestion et management des outils cloud »**
 
 > Définition
 
-Déjà c’est quoi le cloud Computing?c’est un service informatique décentralisé accessiblevia internet.
+Déjà c’est quoi le cloud Computing? c’est un service informatique décentralisé accessiblevia internet.
 
 Ce projet à pour but premier d’améliorer le système de recrutement des collaborateurs de LINKBYNET. 
 
@@ -120,6 +120,17 @@ La suite de ce projet m’a conduit à un contrat d’alternance sur 2 ans pour 
     <img src="/images/possible.jpg" alt="Project">
   </div>
   <em>Projects</em>
+</div>
+
+> Quels sont les compétences associées à cette réalisation ?
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/elan.png" alt="Project"></a>
+    <a href="https://www.credly.com/badges/cf471297-50f8-49f8-abaa-65043add9cae/public_url" target="_blank"><img src="/images/cyberskanda.png" alt="Project"></a>
+    <a href="https://www.credly.com/badges/79f6f82d-c371-4b93-8d95-3ec62e4c2c0d/public_url" target="_blank"><img src="/images/prometheus.png" alt="Project"></a>
+    <!-- <a href="https://www.credly.com/badges/e949f735-f8ac-4e0c-b6d6-fe5e71f47f9a/public_url" target="_blank"><img src="/images/samave.jpg" alt="Project"></a> -->
+  </div>
 </div>
 
 ***
