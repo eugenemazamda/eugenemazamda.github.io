@@ -20,7 +20,7 @@ menu__settings:
     - title: 'Pages'
       submenu:
       - url: '/about'
-        title: 'About'
+        title: 'A Propos'
       - url: '/certifications'
         title: 'Certifications'
       
@@ -38,7 +38,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Eugene Rodolphe MAZAMDA TANGUEU
   title: Eugene Rodolphe 
-  bio: Ingénieur Cloud & DevOps basé en France, je met en oeuvres des architecture cloud, conception des plateformes web, automatisation et industrialisation des services cloud. Quand je ne travaille pas, je suis probablement en train de cuisiner ou de voyager quelque part dans le monde. 
+  bio: Ingénieur Cloud & DevOps basé en France, je mets en oeuvres des architecture cloud, conception des plateformes web, automatisation et industrialisation des services cloud. Quand je ne travaille pas, je suis probablement en train de cuisiner ou de voyager quelque part dans le monde. 
   image: '/images/me1.jpg'
   avatar: '/images/me1.jpg'
   button__text: Mes réalisations
