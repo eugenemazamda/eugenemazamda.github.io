@@ -9,7 +9,7 @@ menu__settings:
   menu__items:
     - title: 'Accueil'
       url: '/'
-    - title: 'Projects'
+    - title: 'Réalisations'
       url: '/projects/'
     - title: 'Compétences'
       submenu:
@@ -49,7 +49,7 @@ author:
 
 projects__settings:
   projects__title: Dernières <span class="text-span">Réalisations</span> # Add a 'text-span' class to highlight text.
-  projects__description: Je vous presente mes meilleures réalisations web , cloud et DevOps construits entièrement avec passion, simplicité et créativité !
+  projects__description: Mes meilleures réalisations web, cloud et DevOps construits entièrement avec passion, simplicité et créativité !
 
 
 #-------------------------------
