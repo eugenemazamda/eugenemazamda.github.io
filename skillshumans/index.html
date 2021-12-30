@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Compétences Humaines
+#title: Compétences Humaines
 description: Mes qualifications et compétences humaines developper tout au long de ma formation à école, en entreprise et dans ma vie personnel 
 ---
-
 <div class="container">
     <div class="row">
         <div class="col col-8 push-2 col-t-12 push-t-0">
             <div class="page-head">
-                <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{site.data.settings.skills__settings.skills__title }}{% endif %}</h1>
+                <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{site.data.settings.skillshumans__settings.skillshumans__title }}{% endif %}</h1>
                 {% if page.description %}
                     <p class="page-description">{{ page.description }}</p>
-                    {% else site.data.settings.skills__settings.skills__description %}
-                        <p class="page-description">{{ site.data.settings.skills__settings.skills__description }}</p>
+                {% else site.data.settings.skillshumans__settings.skillshumans__description %}
+                    <p class="page-description">{{ site.data.settings.skillshumans__settings.skillshumans__description }}</p>
                 {% endif %}
             </div>
         </div>
@@ -21,10 +20,10 @@ description: Mes qualifications et compétences humaines developper tout au long
 
 <div class="container animate">
     <div class="row">
-        {% if site.skills.size > 0 %}
-        {% for post in paginator.skills offset:0 %}
-            {% include article-content.html %}
-        {% endfor %}
+        {% if site.posts.size > 0 %}
+            {% for post in paginator.posts offset:0 %}
+                {% include article-content.html %}
+            {% endfor %}
         {% endif %}
     </div>
 </div>

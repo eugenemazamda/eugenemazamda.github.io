@@ -1,7 +1,7 @@
 ---
-layout: skill
+layout: post
 title:  L'Empathie
-date:   2018-04-24 15:01:35 +0300
+date:   2021-09-24 15:01:35 +0300
 image:  '/images/maraude.jpg'
 tags:   [maraude, humans, Africa]
 ---
@@ -45,6 +45,5 @@ C'est une compétence qui à mon sens est important d'avoir si l'on veut réussi
     <a href="https://eugenemazamda-cloud.com/projects/samavisa" target="_blank"><img src="/images/elan.png" alt="Project"></a>
     <a href="https://eugenemazamda-cloud.com/projects/cyber-skanda" target="_blank"><img src="/images/cyberskanda.png" alt="Project"></a>
     <a href="https://eugenemazamda-cloud.com/projects/prometheus" target="_blank"><img src="/images/prometheus.png" alt="Project"></a>
-    <!-- <a href="https://www.credly.com/badges/e949f735-f8ac-4e0c-b6d6-fe5e71f47f9a/public_url" target="_blank"><img src="/images/samave.jpg" alt="Project"></a> -->
   </div>
 </div>

@@ -14,7 +14,7 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-# paginate_path: "/skillshumans/page:num"
+# paginate_path: "/skillshumans/page:num/"
 
 # collections
 collections:
@@ -26,7 +26,7 @@ collections:
     permalink: /blog/:slug
   skills:
     output: true
-    permalink: /blog/skillshumans/:slug
+    permalink: /skillshumans/:slug
   projects:
     output: true
     permalink: /projects/:slug
@@ -51,7 +51,7 @@ defaults:
       path: ""
       type: "skills"
     values:
-      layout: "skill"
+      layout: "post"
   - scope:
       path: ""
       type: "projects"

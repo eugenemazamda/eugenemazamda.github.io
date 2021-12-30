@@ -1,5 +1,5 @@
 ---
-layout: skill
+layout: post
 title:  La Confiance
 date:   2021-10-27 15:01:35 +0300
 image:  '/images/me9.jpg'

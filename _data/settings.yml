@@ -15,7 +15,7 @@ menu__settings:
       submenu:
       - url: '/blog/'
         title: 'Téchniques'
-      - url: '/blog/skillshumans/'
+      - url: '/skillshumans'
         title: 'Humaines'
     - title: 'Pages'
       submenu:
@@ -125,9 +125,10 @@ blog__settings:
   blog__description:
 
 # Skills Human
-skills__settings:
-  skills__title: Mes <span class="text-span">Compétences Humaine</span>
-  skills__description:
+
+skillshumans__settings:
+  skillshumans__title: Mes <span class="text-span">Compétences Humaine</span>
+  skillshumans__description:  
 
 # Formations
 formations:
