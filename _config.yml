@@ -2,6 +2,8 @@
 # General site settings
 baseurl: ""
 url: "https://eugenemazamda-cloud.com"
+contact:
+  email: f/xjvlkego
 
 #------------------
 # Build settings
