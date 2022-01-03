@@ -1,5 +1,5 @@
 ---
-layout: skill
+layout: post
 title:  La Patience
 date:   2021-10-05 15:01:35 +0300
 image:  '/images/me8.jpg'

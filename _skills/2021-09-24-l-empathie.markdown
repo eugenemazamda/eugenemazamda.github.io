@@ -1,5 +1,5 @@
 ---
-layout: skill
+layout: post
 title:  L'Empathie
 date:   2021-09-24 15:01:35 +0300
 image:  '/images/maraude.jpg'
