@@ -6,7 +6,7 @@ Description here !!!!!!!!!
 
 ### Demo
 
-Check the theme in action [Demo](https://eugenemazamda.github.io)
+Check the theme in action [Demo](https://eugenemazamda-cloud.com)
 
 * * *
 
@@ -26,12 +26,3 @@ Write the documentation here !!!!!
 ### Support
 
 <p>If you have any questions, please feel free to contact me by mail <a href="mailto:rodolphemazamda@gmail.com">Contact</a><p>
-
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
-    <img src="/images/project-8.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
-  </div>
-</div>
