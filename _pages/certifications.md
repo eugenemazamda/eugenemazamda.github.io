@@ -4,7 +4,7 @@ title: Certifications
 image: '/images/me5.jpg'
 ---
 
-> Certifications Microsoft Azure 
+> Mes certifications Microsoft Azure 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -17,10 +17,18 @@ image: '/images/me5.jpg'
   </div>
 </div>
 
-> Certifications GitLab Associate
+> Ma certifications GitLab Associate
 
 <div class="gallery-box">
   <div class="gallery">
     <a href="https://badgr.com/public/assertions/hdLES2d3SAWtirvCy0D2Hg?identity__email=rodolphemazamda@gmail.com" target="_blank"><img src="/images/gitlab.png" alt="Project"></a>
+  </div>
+</div>
+
+> Ma certification ITILv4 Fondamental
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://www.credly.com/badges/5c6f1361-f8cb-412f-8bf8-f81d4072e505/public_url" target="_blank"><img src="/images/itilv4.png" alt="Project"></a>
   </div>
 </div>

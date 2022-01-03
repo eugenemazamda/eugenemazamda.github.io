@@ -13,7 +13,7 @@ Né le 10/01/1993 dans la petite ville Edéa (Littoral-Cameroun) ou j’ai pass�
   <em>Dschang / <a href="https://www.univ-dschang.org/" target="_blank">Cameroun</a></em>
 </div>
 
-J’avais choisi cette filière car l’informatique est une passion depuis mon enfance avec pour référence ma mère qui exerçait dans le domaine d’ailleurs j’ai créé mon premier site internet à l’âge de 15 ans (2008) c’est un exploit dans ma ville. Mais mes années à l’université n’ont vraiment pas fonctionné comme je voulais, première déception de ma vie. Cela est arrivé à cause d’une mauvaise estime de moi et de l’influence que mes amis exercer sur ma personnalité. Par ailleurs, de cet échec j’ai eu une bonne leçon de vie par un adage de chez nous qui dit « Tant que le feu ne brûle pas l’enfant, celui-ci ne saura jamais que le feu est dangereux ». Pour dire que j’ai appris de mes erreurs de jeunesse.
+J’avais choisi cette filière car l’informatique est une passion depuis mon enfance avec pour référence ma mère qui exerçait dans le domaine d’ailleurs j’ai créé mon premier site internet à l’âge de 15 ans (2008) c’est un exploit dans ma ville. Mais mes années à l’université n’ont vraiment pas fonctionné comme je voulais, première déception de ma vie. Cela est arrivé à cause d’une mauvaise estime de moi et de l’influence que mes amis exercer sur ma personnalité. Par ailleurs, de cet échec j’ai eu une bonne leçon de vie par un adage de chez nous qui dit « tant que le feu ne brûle pas l’enfant, celui-ci ne saura jamais que le feu est dangereux ». Pour dire que j’ai appris de mes erreurs de jeunesse.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -36,12 +36,12 @@ Comme si cela ne suffisait pas je me suis retrouvé complètement paralysé de t
 > Mes qualités pour réussir dans la vie
 
 Persévérant je suis, c’est une des qualités premières que mes parents ont su me transmettre et cela je le pratique chaque jour de ma vie et je suis arrivé à ce stade de ma vie grâce à elle. J’avais toujours rêvé de faire le métier que je fais aujourd’hui même si pour y arriver j’ai dû traverser par des moments très difficiles, mais en restant motivé, travailleur j’ai pu y arriver. Cela passe pas des périodes où j’ai dû travailler mon problème de confiance de soi et estime de soi, j’ai dû me mettre en difficulté pour m’améliorer et aujourd’hui je parviens à affirmer mes idées avec plus estime de moi, la confiance à moi m’a permis de repousser mes limites
-pour atteindre mon objectif et voilà qu’aujourd’hui mon rêve qui était de devenir Architecte Informatique c’est concrétiser par l’obtention de plusieurs certifications expert Architecte cloud Microsoft, Google et surtout du fait que j'ai fait 2 ans et demi dans une squad architecte au sein de **Linkbynet Part of Accenture**.
+pour atteindre mon objectif et voilà qu’aujourd’hui mon rêve qui était de devenir Architecte Informatique c’est concrétiser par l’obtention de plusieurs certifications expert architecte cloud Microsoft, Google et surtout du fait que j'ai fait 2 ans et demi dans une squad architecte au sein de **Linkbynet Part of Accenture**.
 
 > Choses exceptionnelles que j’ai vécues
 
-Le fait de repousser mes limites m’a permis de me fixer des objectifs à atteindre, je suis une personne très ambitieux, Avec moi les limites sont sans fin.
-Mon mariage fut l’un de mes principaux objectifs que j’ai pu concrétiser le **21 mai 2018**, les gens disaient de moi que je suis fou que cela ne serait pas faisable surtout que j'étais étudiant et moi je répondais qui veut peut car rien n'est impossible dans cette vie. Une autre chose exceptionnelle est avoir eu le courage de tout recommencer à zéro en 2016 après des moments difficiles de ma vie. Enfin, je dirais l’obtention d’un stage de 6 mois au sein d’une équipe d’architectes cloud, chose qui était peu probable au début, cela à suivie d'une alternance de 2 ans. Maintenant je suis une référence pour certains dans mon entreprise actuelle sur les sujets cloud et DevOps. Magnifique n’est-ce pas.
+Le fait de repousser mes limites m’a permis de me fixer des objectifs à atteindre, je suis une personne très ambitieuse, avec moi les limites sont sans fin.
+Mon mariage fut l’un de mes principaux objectifs que j’ai pu concrétiser le **21 mai 2018**, les gens disaient de moi que je suis fou que cela ne soit pas faisable surtout que j'étais étudiant et moi je répondais qui veut peut car rien n'est impossible dans cette vie. Une autre chose exceptionnelle est avoir eu le courage de tout recommencer à zéro en 2016 après des moments difficiles de ma vie. Enfin, je dirais l’obtention d’un stage de 6 mois au sein d’une équipe d’architectes cloud, chose qui était peu probable au début, cela à suivie d'une alternance de 2 ans. Maintenant je suis une référence pour certains dans mon entreprise actuelle sur les sujets cloud et DevOps. Magnifique n’est-ce pas.
 
 > Qui suis-je vraiment ?
 
@@ -49,13 +49,13 @@ Je suis une personne qui sait s’aimer telle qu’il est, j’aime le travaille
 Voilà ce que je dirais de ma personnalité.
 
 * **Ce que mon entourage dit de ma personne**
-    * Eugène est une personne honnête, il s’est dire les choses qu’ils soient bons ou mauvais;
+    * Eugène est une personne honnête, il s’est dit les choses qu’ils soient bons ou mauvais;
     * Il est un peu trop cérébral il met beaucoup et de fois un peu trop son cerveau au travail peu importe ce que voulait faire avec lui, 
       si son cerveau ne saisit pas information il ne vous suivra pas, faut souvent le laisser un peu de temps;
     * Il a un mental déterminé, grande connaissance surtout humble et toujours dans le partage, il réfléchit avec un bon recul et une vision large sur un sujet, 
       c'est toujours un plaisir d'échanger avec lui;
     * Il aime beaucoup la nourriture (la bonne nourriture) il s’empêche de cuisiner s’il le faut lui-même ses plats;
-    *	Eugène est une personne calme, très agréable, déterminé et avec qui c'est un plaisir de travailler. Bosseur, il n’hésitera pas a ce donner a 120% pour un projet et/ou un problème. Passionné, il intéresse a toute type d'innovation;
+    *	Eugène est une personne calme, très agréable, déterminé et avec qui c'est un plaisir de travailler. Bosseur, il n’hésitera pas à se donner à 120% pour un projet et/ou un problème. Passionné, il intéresse à tout type d'innovation;
     *	Très bon élément, proactif et curieux, s'intègre facilement dans l'équipe et apporte un véritable plus dans la cohésion.
 
 * **Mes points forts**
@@ -74,7 +74,7 @@ Voilà ce que je dirais de ma personnalité.
 
 > Mon monde idéal
 
-Je rêve d’un monde où nous sommes tous égaux, par de différence de race, de culture ou de religions. Ma contribution dans ce monde idéal serait être un modèle pour ma
+Je rêve d’un monde où nous sommes tous égaux, par de différences de race, de culture ou de religions. Ma contribution dans ce monde idéal serait être un modèle pour ma
 communauté religieuse et les frères qui se trouvent dans les pays pauvres et sous-développés.
 
 - **Ma raison d’être dans ce monde**
@@ -84,7 +84,7 @@ les moyens ne permettent pas une chance de réussir et cela grâce à mon domain
 
 > Ce qui me fait vibrer
 
-Ma religion est la base de tout dans ma vie, je fais des efforts pour la mettre au-devant de tout. Puis vient ma famille car pour moi ce sont les seules personnes qui sont avec toi quand tout le monde t’a lâché. Cela étant, l’informatique qui me permet de n’épanouir dans le monde professionnel. Enfin, les voyages je suis un peu nomade à mon âge j’ai déjà fait pas mal de pays et le meilleur reste à finir je une facilité adaptation qui est limite magique.
+Ma religion est la base de toute dans ma vie, je fais des efforts pour la mettre au-devant de tout. Puis vient ma famille car pour moi ce sont les seules personnes qui sont avec toi quand tout le monde t’a lâché. Cela étant, l’informatique qui me permet de n’épanouir dans le monde professionnel. Enfin, les voyages je suis un peu nomade à mon âge j’ai déjà fait pas mal de pays et le meilleur reste à finir je une facilité adaptation qui est limite magique.
 
 **Voilà**, Je dirais que je suis une personne exceptionnelle dans ma manière de faire les choses et de fonctionner. J’ai des valeurs que défend nuit et jours cela me permet d’un part de garder les pieds sur terre peu importe les situations de cette vie.
 

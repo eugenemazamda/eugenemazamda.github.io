@@ -5,9 +5,9 @@ date:   2020-11-13 15:01:35 +0300
 image:  '/images/python.png'
 tags:   [dev, cloud, python]
 ---
-Developpement de plusieurs APIs pour en la mise sous infogérance des différents assets cloud des clients LinkByNet, le developpement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.
+Développement de plusieurs APIs pour en la mise sous infogérance des différents assets cloud des clients LinkByNet, le développement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.
 
-J'utilise ce langage de programmation dans la plutard de mes projects réaliser en entreprise. 
+J'utilise ce langage de programmation dans la plus tard de mes projets réaliser en entreprise. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,10 +25,10 @@ Vous vous concentrez sur les parties de code les plus importantes pour vous, et 
 
 > Mise en pratique 
 
-- Dans le project **DIA (Deploiement Infrastructure Automatisé)** j'ai repris un projet commencé par un collaborateur et le mettre en production 
-- Developpement d'une API d'authentification sur les différentes souscriptions des clients de LinkByNet 
-- Developpement d'une API qui permet de récupérer des credentials de connexions à des souscriptions de nos différents clients 
-- Developpement des API de sauvegarde du service **Azure Databricks** pour Sodexo 
+- Dans le projet **DIA (Déploiement Infrastructure Automatisé)** j'ai repris un projet commencé par un collaborateur et le mettre en production 
+- Développer une API d'authentification sur les différentes souscriptions des clients de LinkByNet 
+- Développer d'une API qui permet de récupérer des credentials de connexions à des souscriptions de nos différents clients 
+- Développer des API de sauvegarde du service **Azure Databricks** pour Sodexo 
 
 ***
 
@@ -48,10 +48,10 @@ PowerShell est une solution multiplateforme d’automatisation des tâches, comp
 
 > Mise en pratique 
 
-- Developpement des **Backdoor (Portes dérobée)** dans un project de Cybersécurité réaliser à école [Cyber Skanda]
-- Developpment d'un générateur de mot de passe avec interface graphique 
-- Developpment d'un outil de monitoring pour système Windows 
-- Developpment des APIs en Azure PowerShell pour faire la sauvegarde vers un **storage account (SA)** des différents services Azure Cloud
+- Développer des **Backdoor (Portes dérobée)** dans un project de Cybersécurité réaliser à école [Cyber Skanda]
+- Développer un générateur de mot de passe avec interface graphique 
+- Développer un outil de monitoring pour système Windows 
+- Développer des APIs en Azure PowerShell pour faire la sauvegarde vers un **storage account (SA)** des différents services Azure Cloud
 
 > Définition des termes 
 
