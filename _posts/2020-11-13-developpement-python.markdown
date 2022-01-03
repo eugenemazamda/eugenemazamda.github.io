@@ -1,25 +1,31 @@
 ---
 layout: post
-title:  Programmation et Developpement Python 
+title:  Programmation et Developpement Python & PowerShell
 date:   2020-11-13 15:01:35 +0300
-image:  '/images/python.png'
-tags:   [dev, cloud, python]
+image:  '/images/programmation.jpg'
+tags:   [dev, cloud, python, powershell]
 ---
+
 Développement de plusieurs APIs pour en la mise sous infogérance des différents assets cloud des clients LinkByNet, le développement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.
 
-J'utilise ce langage de programmation dans la plus tard de mes projets réaliser en entreprise. 
+J'utilise ses langages de programmation dans la plus tard de mes projets réaliser en entreprise. 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
+    <img src="/images/python.png" alt="Project">
+    <img src="/images/powershell.jpg" alt="Project">
   </div>
-  <em>Gallery</em>
 </div>
 
 > Azure Function ?
 
 Azure Functions est une solution serverless qui vous permet d’écrire moins de code, de maintenir une infrastructure plus légère et de réduire les coûts. Au lieu de vous préoccuper du déploiement et de la maintenance des serveurs, l’infrastructure cloud met à votre disposition tous les serveurs à jour nécessaires pour assurer l’exécution de vos applications.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/azure_function.jpg" alt="Project">
+  </div>
+</div>
 
 Vous vous concentrez sur les parties de code les plus importantes pour vous, et Azure Functions s’occupe du reste. 
 
@@ -40,10 +46,8 @@ PowerShell est une solution multiplateforme d’automatisation des tâches, comp
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
+    <img src="/images/powershell.jpg" alt="Project">
   </div>
-  <em>Gallery</em>
 </div>
 
 > Mise en pratique 

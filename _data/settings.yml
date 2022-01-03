@@ -9,9 +9,9 @@ menu__settings:
   menu__items:
     - title: 'Réalisations'
       url: '/projects/'
-    - title: 'Compétences Téchniques'
+    - title: 'Skills Téchniques'
       url: '/blog/'
-    - title: 'Compétences Humaines'
+    - title: 'Skills Humaines'
       url: '/skillshumans/'
     - title: 'Pages'
       submenu:
@@ -55,62 +55,62 @@ testimonial__title: Mes <span class="text-span">Collaborateurs</span> # Add a 't
 
 testimonial-items:
   - name: "Alexandre CHHAN"
-    image: "/images/client-2.jpg"
+    image: "/images/alexandre.jfif"
     designation : "Manager Squad Architecte - Tuteur"
     content : "Mettre le témoinages Alexandre ici et la photo si possible !!!."
 
   - name: "Karim EL KAIAL"
-    image: "/images/client-1.jpg"
+    image: "/images/karim.jfif"
     designation : "Architecte Unix"
     content : "Eugène est une personne Gentille, sociable, à l'écoute, assidu. Comme points fort, il est motiver, autonome dans son travail, efficace, polyvalent dans le domaine et surtout curieux"
 
   - name: "Guillaume F"
-    image: "/images/client-2.jpg"
+    image: "/images/guillaume.jfif"
     designation : "Architecte Cloud - Azure"
     content : "J'ai eu plaisir à échanger avec Eugène durant sa présence. ll est jovial, de bonne humeur et participe grandement à la bonne ambiance au travail.Au-delà de sa personnalité, une très bonne assiduité au travail, une volonté d'aller au fond des sujets et enfin une grande capacité d'autonomie pour trouver des solutions à des problèmes complexes."
 
   - name: "Noël"
-    image: "/images/client-3.jpg"
+    image: "/images/noel.jfif"
     designation : "Architecte Cloud - AWS "
     content : "Mettre le témoinages de Noël ici et la photo si possible !!!."
 
   - name: "Thomas PELTIER"
-    image: "/images/client-1.jpg"
+    image: "/images/thomas.jfif"
     designation : "Ingénieur Infra-IT"
     content : "Eugène est agréable à vivre, à l'écoute de ses collègues avec beaucoup d'empathie, travailleur, motivé, déterminé et très ambitieux. Il est une personne attachant, comme amélioration à faire, il faut qu'il s'affirme un peu plus auprès des autres collaborateurs"
 
   - name: "Salim LE BIHAN"
-    image: "/images/client-4.jpg"
+    image: "/images/salim.jfif"
     designation : "Consultant Cloud - Chef de projects"
     content : "Très bon élément, proactif et curieux, s'intégre facilement dans les équipes et apporte un véritable plus dans la cohésion, accepte et relève les challenges. Il doit détailler d'avantages les feedbacks. Eugène est à l'écoute, patient et prêt à aider. Bonne connaissance de Microsoft Azure."
 
   - name: "Louakal FEKIH"
-    image: "/images/client-4.jpg"
+    image: "/images/louakal.jfif"
     designation : "Ingénieur Windows"
     content : "Eugène est une personne calme, très agréable, déterminé et avec qui c'est un plaisir de travailler. Bosseur, il n’hésitera pas à se donner à 120% pour un projet et/ou un problème. Passionné, il intéresse à tout type d'innovation. Patience / Humilité / Respect sont 3 mots pour le qualifier."
 
   - name: "Elhadj Oumar DOUMBOUYA"
-    image: "/images/client-4.jpg"
+    image: "/images/oumar.jfif"
     designation : "Ingénieur DevOps"
     content : "Personne rigoureuse dans le travail, calme et sympathique, Forte capacité d'analyse, grande vitesse de compréhension, sérénité à toutes épreuves, Esprit d'équipe, Curiosité, Envie d'apprendre et de progresser. Avec Eugène les limites sont sans fin."
 
   - name: "Cheick Traore"
-    image: "/images/client-4.jpg"
+    image: "/images/cheick.png"
     designation : "Architecte Cloud"
     content : "Mettre le témoinages de Cheick et la photo si possible  ici !!!."
 
   - name: "Adam BAEZA"
-    image: "/images/client-4.jpg"
+    image: "/images/adam.jfif"
     designation : "Ingénieur Réseaux"
     content : "Eugène est une personne agréable qui a une volonté d'apprendre. C'est une personne avec une bonne connaissance du cloud public. Comme axes d'amélioration Eugène ne se prononcent pas. En deux mots C'est une personne avenante et sympathique"
 
   - name: "Gaëtan ONAHETA"
-    image: "/images/client-4.jpg"
+    image: "/images/gaetan.jfif"
     designation : "Architecte Unix"
     content : "Eugène sait écouter et comprendre (c'est rare aujourd'hui), très agile, s'adapte et répond au besoin ou changements demandés. Très organisé dans son travail, il est transparent le long de son projet. Selon moi, son atout majeur, c'est sa capacité d'analyse, elle lui permet de voir large afin de poser les bonnes questions et de répondre de manière ciblée, efficace et pertinente avec des solutions techniques adaptées, claires et précises."
 
   - name: "Aure BERNIER"
-    image: "/images/client-2.jpg"
+    image: "/images/aure.jfif"
     designation : "Project Manager"
     content : "Très bonne personnalité, à l'écoute et toujours enthousiaste. La motivation et l'enthousiasme sont ses points forts. Il a une compréhension des autres qui est incroyable."
 #-------------------------------

@@ -53,7 +53,7 @@ defaults:
       path: ""
       type: "skills"
     values:
-      layout: "post"
+      layout: "skill"
   - scope:
       path: ""
       type: "projects"

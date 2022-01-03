@@ -17,8 +17,8 @@
 
                     <div class="row">
                         {% if site.skills.size > 0 %}
-                            {% for post in site.skills offset:0 limit:3 %}
-                                {% include article-content.html %}
+                            {% for skill in site.skills offset:0 limit:3 %}
+                                {% include skill-content.html %}
                             {% endfor %}
                         {% endif %}
                     </div>
