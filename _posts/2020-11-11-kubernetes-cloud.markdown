@@ -39,3 +39,13 @@ Kuberntes se base sur une image pour générer des conteneurs, par contre ses im
 Quoique le projet qui me permettait de mettre en oeuvre cette compétence soit arrêter, je continue à monter en compétence sur la technologie en autoformation dans mon temps personnel. 
 
 - J'utilise beaucoup la solution Kubernetes de Google Cloud *[ Je publirais un blog par rapport au sujet dans les jours ou mois à venir]*
+
+> Réalisation associée
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://eugenemazamda-cloud.com/projects/ccoe-lbn" target="_blank"><img src="/images/lbn.png" alt="Project"></a>
+    <a href="https://eugenemazamda-cloud.com/projects/lbnpuzzle" target="_blank"><img src="/images/kubernetes.png" alt="Project"></a>
+    <a href="https://eugenemazamda-cloud.com/projects/prometheus" target="_blank"><img src="/images/prometheus.png" alt="Project"></a>
+  </div>
+</div>

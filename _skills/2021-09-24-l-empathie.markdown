@@ -42,8 +42,8 @@ C'est une compétence qui a mon sens est importante d'avoir si l'on veut réussi
 
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://eugenemazamda-cloud.com/projects/samavisa" target="_blank"><img src="/images/elan.png" alt="Project"></a>
-    <a href="https://eugenemazamda-cloud.com/projects/cyber-skanda" target="_blank"><img src="/images/cyberskanda.png" alt="Project"></a>
+    <a href="https://eugenemazamda-cloud.com/projects/ccoe-lbn" target="_blank"><img src="/images/lbn.png" alt="Project"></a>
+    <a href="https://eugenemazamda-cloud.com/projects/lbnpuzzle" target="_blank"><img src="/images/kubernetes.png" alt="Project"></a>
     <a href="https://eugenemazamda-cloud.com/projects/prometheus" target="_blank"><img src="/images/prometheus.png" alt="Project"></a>
   </div>
 </div>

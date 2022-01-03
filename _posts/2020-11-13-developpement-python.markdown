@@ -58,3 +58,13 @@ PowerShell est une solution multiplateforme d’automatisation des tâches, comp
 - **Storage Account (SA)** : il contient tous vos objets de données de stockage Azure : objets blob, fichiers, files d’attente, tables et disques. Le compte de stockage fournit pour vos données de stockage Azure un espace de noms unique, accessible de n’importe où dans le monde via HTTP ou HTTPS. Les données dans votre compte de stockage Azure sont durables et hautement disponibles, sécurisées et massivement évolutives. 
 
 - **Backdoors** : est un programme informatique malveillant utilisé pour donner aux pirates un accès à distance non autorisé à un ordinateur infecté en exploitant les vulnérabilités du système.
+
+> Réalisation associée
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://eugenemazamda-cloud.com/projects/ccoe-lbn" target="_blank"><img src="/images/lbn.png" alt="Project"></a>
+    <a href="https://eugenemazamda-cloud.com/projects/lbnpuzzle" target="_blank"><img src="/images/kubernetes.png" alt="Project"></a>
+    <a href="https://eugenemazamda-cloud.com/projects/prometheus" target="_blank"><img src="/images/prometheus.png" alt="Project"></a>
+  </div>
+</div>
