@@ -7,16 +7,12 @@ description: Eugene – Portfolio pour la soutenance master IN'TECH
 
 menu__settings:
   menu__items:
-    - title: 'Accueil'
-      url: '/'
     - title: 'Réalisations'
       url: '/projects/'
-    - title: 'Compétences'
-      submenu:
-      - url: '/blog/'
-        title: 'Téchniques'
-      - url: '/skillshumans'
-        title: 'Humaines'
+    - title: 'Compétences Téchniques'
+      url: '/blog/'
+    - title: 'Compétences Humaines'
+      url: '/skillshumans/'
     - title: 'Pages'
       submenu:
       - url: '/about'
