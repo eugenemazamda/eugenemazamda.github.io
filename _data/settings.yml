@@ -170,5 +170,5 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/eug%C3%A8ne-rodolphe-mazamda-tangueu-82612b151/"}
 - {icon: "ion-logo-github", link: "https://github.com/eugenemazamda"}
-- {icon: "ion-logo-gitlab", link: "https://gitlab.com/rodolphemazamda"}
+- {icon: "fa fa-gitlab", link: "https://gitlab.com/rodolphemazamda"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCmERV6qF_w3QHtzhT2gx5Yg"}
