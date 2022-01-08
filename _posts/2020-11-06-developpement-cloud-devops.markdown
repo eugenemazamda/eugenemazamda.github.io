@@ -43,13 +43,13 @@ Quelques outils DevOps :
 
 > Ma monter en compétences sur ses différents sujets 
 
-Ma monter en compétence sur ses différents sujet c'est fait de manière naturel dans le sense que les différents projets qui n'ont été confiés implémentais dans le cloud et avec une philosophie DevOps car fallait mettre en place des chaînes CI (Continue Intégration) et CD (Continue Deployment). Cela passe aussi part un programme d'auto-formation mis en place en fonction de mes besoins et objectifs, la persévérance car cela n'était pas facile, il y a des moments où je me suis dis c'est bon j'abandonne mais la détermination qui est mienne était plus forte qu'une caprise passagère de mon égo. 
+Ma monter en compétence sur ses différents sujets c'est fait de manière naturelle dans le sens que les différents projets qui n'ont été confiés implémentais dans le cloud et avec une philosophie DevOps car fallait mettre en place des chaînes CI (Continue Intégration) et CD (Continue Deployment). Cela passe aussi par un programme d'autoformation mis en place en fonction de mes besoins et objectifs, la persévérance car cela n'était pas facile, il y a des moments où je me suis dit c'est bon j'abandonne mais la détermination qui est mienne était plus forte qu'une caprice passagère de mon égo. 
 
-Savoir répousser les limites et une de mes qualités et cela m'a permis parfaitement monter en compétence sur ses différents sujets.
+Savoir repousser les limites et une de mes qualités et cela m'a permis parfaitement monter en compétence sur ses différents sujets.
 
 > Mise en pratique 
 
-J'ai eu la chance de mettre en pratique ces compétences chez Linkbynet part of Accenture durant ma période de stage et alternance au sein de l'équipe d'architecte cloud solution.
+J'ai eu la chance de mettre en pratique ses compétences chez Linkbynet part of Accenture durant ma période de stage et alternance au sein de l'équipe d'architectes cloud solution.
 
 Projets réaliser : 
 - Mise en place d'une plateforme de déploiement de challenges via Kubernetes (Projet de stage)
