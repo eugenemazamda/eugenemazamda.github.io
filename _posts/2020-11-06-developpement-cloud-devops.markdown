@@ -84,10 +84,6 @@ Langages de programmations:
   </div>
 </div>
 
-- **Python** : langage de développement des outils
-- **PowerShell** : langage de développement des outils et la mise en place du backup 
-- **Ruby and Liquid** : pour la mise en place du catalogue de service 
-
 > Réalisation associée
 
 <div class="gallery-box">
