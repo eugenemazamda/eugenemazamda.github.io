@@ -28,18 +28,25 @@ De nos nous dispositions de plusieurs fournisseurs cloud :
 
 DevOps provient de la contraction du mot « développement » et du mot « opérations» qui peut se traduire en français par le mot production. DevOps est une méthode qui vise à rapprocher les équipes dev (en charge de la conception du code) et les Ops(en charge de l’infrastructure qui héberge les applications) dans le but d’améliorer la réactivé des DSI, et de diminuer lestemps de traitement entre une demande de modification d’un service IT et sa mise en ligne. Les procédésagiles de développement provenantde la démarche Lean d’optimisation des organisations, modèle d’origine japonaise, sont ainsi étendues à la production informatique.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/devops.png" alt="DevOps">
+  </div>
+</div>
+
 Le mot DevOps a pour sa part été formulé la première fois par Patrick Debois, un consultantindépendant d’origine belge.Il n’existe pas de définition de DevOps qui fasse l’unanimité.  DevOps a commencé à émerger dans les années 2000, sous l’impulsion de précurseurs tels que JezzHumble, co-auteur américain de «The DevOps Handbook», de Gene Kim, originaire du Minnesota et auteur du fameux roman «The Phoenix Project». Contrairement à Agile, DevOps n’a pas été défini par un manifeste, et sa définition continue d’être alimentée.  Gartner définit DevOps comme une philosophie orientéeoutils prenant en charge une chaine de livraison de valeur en continue.
 
 [ Source ](https://fr.wikipedia.org/wiki/Devops)
 
 Quelques outils DevOps :
-- Azure DevOps 
-- GitLab CI 
-- Circle CI
-- Travis CI
-- TeamCity
-- Jenkins
-- etc ...
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/azure-devops.png" alt="DevOps">
+    <img src="/images/gitlab-ci.png" alt="DevOps">
+    <img src="/images/jenkins.png" alt="DevOps">
+  </div>
+</div>
 
 > Ma monter en compétences sur ses différents sujets 
 
@@ -68,6 +75,15 @@ Technologies utilisées :
 - **Azure Kubernetes** : service managé qui permet de déployer et de gérer rapidement des clusters. 
 
 Langages de programmations:
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/python.png" alt="DevOps">
+    <img src="/images/powershell.jpg" alt="DevOps">
+    <img src="/images/ruby.webp" alt="DevOps">
+  </div>
+</div>
+
 - **Python** : langage de développement des outils
 - **PowerShell** : langage de développement des outils et la mise en place du backup 
 - **Ruby and Liquid** : pour la mise en place du catalogue de service 
