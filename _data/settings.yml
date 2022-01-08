@@ -57,7 +57,7 @@ testimonial-items:
   - name: "Alexandre CHHAN"
     image: "/images/alexandre.jfif"
     designation : "Manager Squad Architecte - Tuteur"
-    content : "Mettre le témoinages Alexandre ici et la photo si possible !!!."
+    content : "Eugène a des facilités sur la montée en compétence technique : rien ne lui est impossible en termes d'implémentation technique ! il est à l'écoute et persévérant. Il doit s'affirmer davantages en entreprise et notament avec les autres équipes. Il doit également développer plus de formalisme dans la rédaction de ses documents / ses rendus, mieux préparer ses réunions et mieux s'organiser sa gestion du temps."
 
   - name: "Karim EL KAIAL"
     image: "/images/karim.jfif"
@@ -69,10 +69,10 @@ testimonial-items:
     designation : "Architecte Cloud - Azure"
     content : "J'ai eu plaisir à échanger avec Eugène durant sa présence. ll est jovial, de bonne humeur et participe grandement à la bonne ambiance au travail.Au-delà de sa personnalité, une très bonne assiduité au travail, une volonté d'aller au fond des sujets et enfin une grande capacité d'autonomie pour trouver des solutions à des problèmes complexes."
 
-  - name: "Noël"
+  - name: "Noël GANANATHAN"
     image: "/images/noel.jfif"
     designation : "Architecte Cloud - AWS "
-    content : "Mettre le témoinages de Noël ici et la photo si possible !!!."
+    content : "Eugène est une personne calme, sérieuse et travailleur. Un très bon élément à avoir dans l'équipe. Sa capacité de monter ne compétences sur de nouveaux sujets, une très bonne rigueur dans ces rendus (code et documentation). Par contre il doit apprendre à demander de l'aide plus rapidement pour ne pas bloquer sur un sujet trop longtemps donc plus communiquer en équipe. Il a de très bonne compétence en développement et services cloud (AZURE et AWS). Eugène aime partager ce qu'il connaît avec les autres. Il est assez sociable et s'intègre facilement dans les différentes équipes."
 
   - name: "Thomas PELTIER"
     image: "/images/thomas.jfif"
