@@ -4,6 +4,7 @@ title:  Kubernetes Cloud [Azure Kubernetes (AKS)]
 date:   2020-11-11 15:01:35 +0300
 image:  '/images/aks.png'
 tags:   [kube, cloud, Linkbynet]
+categorie: technique
 ---
 
 > Qu'est-ce que Kubernetes (K8s) ?

@@ -1,0 +1,44 @@
+---
+layout: default
+description: Mes qualifications et compétences transversses developper tout au long de ma formation. 
+---
+<div class="container">
+    <div class="row">
+        <div class="col col-8 push-2 col-t-12 push-t-0">
+            <div class="page-head">
+                <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.humans__settings.humans__title }}{% endif %}</h1>
+                {% if page.description %}
+                    <p class="page-description">{{ page.description }}</p>
+                {% else site.data.settings.humans__settings.humans__description %}
+                    <p class="page-description">{{ site.data.settings.humans__settings.humans__description }}</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container animate">
+    <div class="row">
+        {% for human in site.humans reversed %}
+        <article class="human col col-4 col-d-6 col-t-12">
+            <div class="human__content">
+                <a href="{{ human.url }}" class="human__image">
+                    <img class="lazy" data-src="{{ human.image }}" alt="{{ human.title }}">
+                </a>
+                <div class="human__info">
+                    <div class="human__info-wrap">
+                        <h4 class="human__title">{{ human.title }}</h4>
+                    </div>
+                    <div class="human__info-wrap">
+                        {% if human.subtitle %}
+                        <div class="human__subtitle">{{ human.subtitle }} –</div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+</div>
+
+{% include pagination.html %}

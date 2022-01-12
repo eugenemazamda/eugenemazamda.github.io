@@ -3,7 +3,7 @@
 baseurl: ""
 url: "https://eugenemazamda-cloud.com"
 contact:
-  email: f/xjvlkego
+  email: mazamdatangueu@et.intechinfo.fr
 
 #------------------
 # Build settings
@@ -26,9 +26,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  skills:
+  humans:
     output: true
-    permalink: /skillshumans/:slug
+    permalink: /humans/:slug
   projects:
     output: true
     permalink: /projects/:slug
@@ -51,9 +51,9 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "skills"
+      type: "humans"
     values:
-      layout: "skill"
+      layout: "human"
   - scope:
       path: ""
       type: "projects"

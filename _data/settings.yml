@@ -9,11 +9,13 @@ menu__settings:
   menu__items:
     - title: 'Réalisations'
       url: '/projects/'
-    - title: 'Skills Téchniques'
-      url: '/blog/'
-    - title: 'Skills Humaines'
-      url: '/skillshumans/'
-    - title: 'Pages'
+    - title: 'Compétences'
+      submenu:
+      - url: '/blog/'
+        title: 'Téchniques'
+      - url: '/humans/'
+        title: 'Transverses'
+    - title: 'Personnel'
       submenu:
       - url: '/about'
         title: 'A Propos'
@@ -46,6 +48,11 @@ author:
 projects__settings:
   projects__title: Dernières <span class="text-span">Réalisations</span> # Add a 'text-span' class to highlight text.
   projects__description: Mes meilleures réalisations web, cloud et DevOps construits entièrement avec passion, simplicité et créativité !
+
+# Humans
+humans__settings:
+  humans__title: Mes <span class="text-span">Compétences Humaines</span> # Add a 'text-span' class to highlight text.
+  humans__description:
 
 
 #-------------------------------
@@ -120,11 +127,7 @@ blog__settings:
   blog__title: Mes <span class="text-span">Compétences Techniques</span> # Add a 'text-span' class to highlight text.
   blog__description:
 
-# Skills Human
 
-skillshumans__settings:
-  skillshumans__title: Mes <span class="text-span">Compétences Humaines</span>
-  skillshumans__description:  
 
 # Formations
 formations:

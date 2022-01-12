@@ -1,9 +1,8 @@
 ---
-layout: skill
 title:  La Patience
 date:   2021-10-05 15:01:35 +0300
+subtitle:   "[Formation, social, vie]"
 image:  '/images/me8.jpg'
-tags:   [Formation, social, vie]
 ---
 
 > La patience  

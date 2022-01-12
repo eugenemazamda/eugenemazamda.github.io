@@ -1,9 +1,8 @@
 ---
-layout: skill
 title:  L'Empathie
 date:   2021-09-24 15:01:35 +0300
+subtitle:   "[maraude, humans, Africa]"
 image:  '/images/maraude.jpg'
-tags:   [maraude, humans, Africa]
 ---
 
 > Définition de l'empathie ? 
