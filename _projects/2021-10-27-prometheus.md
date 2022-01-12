@@ -26,9 +26,9 @@ En revanche, si nous ne faisons rien, notre continent continuera à perdre les j
 
 En tant que co-fondateur du projet, j’aimerais de tout cœur que ce projet se réalise pour avoir le sentiment personnel d’avoir contribuer du mieux que je pouvais aux développements de mon pays et de mon continent.
 
->	Définition du projet 
+> Définition du projet 
 
-Prometheus est une plateforme web développer en France à destination de EDUCOM au Sénégal. Cette plateforme jouera de Hub entre le ministère de l’éducation national, enseignants, élèves, parents d’élève et association du système éducatif. Il leurs permettra de collaborer autour des différents programmes scolaires en continu et sans interruption du processus d’éducation. 
+Prometheus est une plateforme web développer en France à destination de **EDUCOM** au Sénégal. Cette plateforme jouera de Hub entre le ministère de l’éducation national, enseignants, élèves, parents d’élève et association du système éducatif. Il leurs permettra de collaborer autour des différents programmes scolaires en continu et sans interruption du processus d’éducation. 
 
 Cette synergie au premier niveau va aider le ministère de l’éducation à faire de l’éducation un bien public et universel. Il y aura une synergie au second niveau entre le ministère, l’inspection académique et les directeurs d’écoles, cela s’inscrit dans une logique de management et d’information.
 
@@ -85,9 +85,10 @@ Grâce à ce projet j’ai pu développés plusieurs compétences techniques à 
 
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/me9.jpg" alt="La Confiance"> La Confiance </a>
-    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/me8.jpg" alt="La Patience"></a>
-    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/me11.jpg" alt="La Patience"></a>
+    <a href="https://eugenemazamda-cloud.com/humans/la-confiance" target="_blank"><img src="/images/me9.jpg" alt="La Confiance"> La Confiance </a>
+    <a href="https://eugenemazamda-cloud.com/humans/la-patience" target="_blank"><img src="/images/me8.jpg" alt="La Patience">La Patience</a>
+    <a href="https://eugenemazamda-cloud.com/humans/l-empathie" target="_blank"><img src="/images/maraude.jpg" alt="L'Empathie'">L'Empathie</a>
+  </div>
 </div>
 
 Tout ses acquis me permettent aujourd’hui d’avoir une connaissance et des compétences variés qui font que je peux reprendre le projet avec plus de sérénité et de certitude dans les choix de technologies tout en tenant compte des principes de bases du domaine. 

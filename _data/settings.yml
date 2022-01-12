@@ -3,7 +3,7 @@
 
 title: Mazamda Tangueu
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Eugene – Portfolio pour la soutenance master IN'TECH
+description: Eugene – Portfolio Master en Architecture des Systèmes d'Information à IN'TECH
 
 menu__settings:
   menu__items:
@@ -36,7 +36,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Eugene Rodolphe MAZAMDA TANGUEU
   title: Eugene Rodolphe 
-  bio: Ingénieur Cloud & DevOps basé en France, je mets en œuvre des architecture cloud, je conçois des plateformes web et mobile. Je suis également amené à automatiser et industrialiser des infrastructures cloud. Quand je redescends quelques fois sur terre c’est souvent pour découvrir d’autres horizons et revêtir mon tablier pour faire de la bonne cuisine.  
+  bio: Architecte Junior Cloud & DevOps basé en France, je mets en œuvre des architecture cloud, je conçois des plateformes web et mobile. Je suis également amené à automatiser et industrialiser des infrastructures cloud. Quand je redescends quelques fois sur terre, c’est souvent pour découvrir d’autres horizons et revêtir mon tablier pour faire de la bonne cuisine.  
   image: '/images/me1.jpg'
   avatar: '/images/me1.jpg'
   button__text: Mes réalisations
@@ -51,7 +51,7 @@ projects__settings:
 
 # Humans
 humans__settings:
-  humans__title: Mes <span class="text-span">Compétences Humaines</span> # Add a 'text-span' class to highlight text.
+  humans__title: Mes <span class="text-span">Compétences Transverses</span> # Add a 'text-span' class to highlight text.
   humans__description:
 
 
@@ -64,32 +64,32 @@ testimonial-items:
   - name: "Alexandre CHHAN"
     image: "/images/alexandre.jfif"
     designation : "Manager Squad Architecte - Tuteur"
-    content : "Eugène a des facilités sur la montée en compétence technique : rien ne lui est impossible en termes d'implémentation technique ! il est à l'écoute et persévérant. Il doit s'affirmer davantages en entreprise et notament avec les autres équipes. Il doit également développer plus de formalisme dans la rédaction de ses documents / ses rendus, mieux préparer ses réunions et mieux s'organiser sa gestion du temps."
+    content : "Eugène a des facilités sur la montée en compétence technique : rien ne lui est impossible en termes d'implémentation techniques ! Il est à l'écoute et persévérant. Il doit s'affirmer d'avantages en entreprise et notamment avec les autres équipes. Il doit également développer plus de formalisme dans la rédaction de ses documents, de ses rendus, mieux préparer ses réunions et mieux s'organiser sa gestion du temps."
 
   - name: "Karim EL KAIAL"
     image: "/images/karim.jfif"
     designation : "Architecte Unix"
-    content : "Eugène est une personne Gentille, sociable, à l'écoute, assidu. Comme points fort, il est motiver, autonome dans son travail, efficace, polyvalent dans le domaine et surtout curieux"
+    content : "Eugène est une personne Gentille, sociable, à l'écoute, assidu. Comme points fort, il est motivé, autonome dans son travail, efficace, polyvalent dans le domaine et surtout curieux"
 
   - name: "Guillaume F"
     image: "/images/guillaume.jfif"
     designation : "Architecte Cloud - Azure"
-    content : "J'ai eu plaisir à échanger avec Eugène durant sa présence. ll est jovial, de bonne humeur et participe grandement à la bonne ambiance au travail.Au-delà de sa personnalité, une très bonne assiduité au travail, une volonté d'aller au fond des sujets et enfin une grande capacité d'autonomie pour trouver des solutions à des problèmes complexes."
+    content : "J'ai eu plaisir à échanger avec Eugène durant sa présence. ll est jovial, de bonne humeur et participe grandement à la bonne ambiance au travail. Au-delà de sa personnalité, une très bonne assiduité au travail, une volonté d'aller au fond des sujets et enfin une grande capacité d'autonomie pour trouver des solutions à des problèmes complexes."
 
   - name: "Noël GANANATHAN"
     image: "/images/noel.jfif"
     designation : "Architecte Cloud - AWS "
-    content : "Eugène est une personne calme, sérieuse et travailleur. Un très bon élément à avoir dans l'équipe. Sa capacité de monter ne compétences sur de nouveaux sujets, une très bonne rigueur dans ces rendus (code et documentation). Par contre il doit apprendre à demander de l'aide plus rapidement pour ne pas bloquer sur un sujet trop longtemps donc plus communiquer en équipe. Il a de très bonne compétence en développement et services cloud (AZURE et AWS). Eugène aime partager ce qu'il connaît avec les autres. Il est assez sociable et s'intègre facilement dans les différentes équipes."
+    content : "Eugène est une personne calme, sérieuse et travailleur. Un très bon élément à avoir dans l'équipe. Sa capacité de monter en compétences sur de nouveaux sujets, une très bonne rigueur dans ces rendus (code et documentation). Par contre, il doit apprendre à demander de l'aide plus rapidement pour ne pas bloquer sur un sujet trop longtemps donc plus communiquer en équipe. Il a de très bonnes compétences en développement et services cloud (AZURE et AWS). Eugène aime partager ce qu'il connaît avec les autres. Il est assez sociable et s'intègre facilement dans les différentes équipes."
 
   - name: "Thomas PELTIER"
     image: "/images/thomas.jfif"
     designation : "Ingénieur Infra-IT"
-    content : "Eugène est agréable à vivre, à l'écoute de ses collègues avec beaucoup d'empathie, travailleur, motivé, déterminé et très ambitieux. Il est une personne attachant, comme amélioration à faire, il faut qu'il s'affirme un peu plus auprès des autres collaborateurs"
+    content : "Eugène est agréable à vivre, à l'écoute pour ses collègues avec beaucoup d'empathie, travailleur, motivé, déterminé et très ambitieux. Il est une personne attachant, comme amélioration à faire, il faut qu'il s'affirme un peu plus auprès des autres collaborateurs."
 
   - name: "Salim LE BIHAN"
     image: "/images/salim.jfif"
     designation : "Consultant Cloud - Chef de projects"
-    content : "Très bon élément, proactif et curieux, s'intégre facilement dans les équipes et apporte un véritable plus dans la cohésion, accepte et relève les challenges. Il doit détailler d'avantages les feedbacks. Eugène est à l'écoute, patient et prêt à aider. Bonne connaissance de Microsoft Azure."
+    content : "Très bon élément, proactif et curieux, s'intègre facilement dans les équipes et apporte un véritable plus dans la cohésion, accepte et relève les challenges. Il doit détailler d'avantages les feedbacks. Eugène est à l'écoute, patient et prêt à aider. Bonne connaissance de Microsoft Azure."
 
   - name: "Louakal FEKIH"
     image: "/images/louakal.jfif"
@@ -104,12 +104,12 @@ testimonial-items:
   - name: "Cheick Traore"
     image: "/images/cheick.png"
     designation : "Architecte Cloud"
-    content : "J'ai collaboré pendant 1 an avec Eugene durant cette année travailler avec Eugene a été vraiment un plus pour moi de part son expérience et sa prise de hauteur sur les sujets complexes de plus Eugene est quelqu’un qui m'as permis de monter rapidement en compétence pour passer des certifications d'architecte Azure."
+    content : "J'ai collaboré pendant 1 an avec Eugene durant cette année travaillé avec Eugene a été vraiment un plus pour moi de par son expérience et sa prise de hauteur sur les sujets complexes de plus Eugene est quelqu’un qui m'as permis de monter rapidement en compétences pour passer des certifications d'architecte Azure."
 
   - name: "Adam BAEZA"
     image: "/images/adam.jfif"
     designation : "Ingénieur Réseaux"
-    content : "Eugène est une personne agréable qui a une volonté d'apprendre. C'est une personne avec une bonne connaissance du cloud public. Comme axes d'amélioration Eugène ne se prononcent pas. En deux mots C'est une personne avenante et sympathique"
+    content : "Eugène est une personne agréable qui a une volonté d'apprendre. C'est une personne avec une bonne connaissance du cloud publique. Comme axes d'amélioration, Eugène ne se prononce pas. En deux mots, c'est une personne avenante et sympathique."
 
   - name: "Gaëtan ONAHETA"
     image: "/images/gaetan.jfif"

@@ -5,7 +5,7 @@ subtitle: Plateforme de Challenge via Kubernetes
 image: '/images/kubernetes.png'
 ---
 
-Ce fameux projet qui m’a fait monter en compétences techniques et de m’affirmer dans mon équipe et avoir du crédit auprès de mon manager, une mention très bien à ma soutenance de fin de Bachelor . La compétence qui a été mise en avant ici est la **« Gestion et management des outils cloud »**
+Ce fameux projet qui m’a fait monter en compétences techniques et qui m'a permis de m’affirmer et ainsi avoir du crédit auprès de mon manager. Ce projet m'a également permis d'obtenir une mention très bien à ma soutenance de fin de Bachelor . La compétence qui a été mise en avant ici est la **« Gestion et le management des outils cloud »**
 
 > Définition
 
@@ -13,11 +13,11 @@ Déjà c’est quoi le cloud Computing? c’est un service informatique décentr
 
 Ce projet avait pour but premier d’améliorer le système de recrutement des collaborateurs de LINKBYNET. 
 
-En effet, elle est conçue de sorte que la personne qui aimerait se faire recruter chez LINKBYNET devra faire se connecter sur la plateforme avec son compte LinkedIn et effectuer tous une série de tests qui définira son niveau côté compétences techniques, c’est n’est qu’après cela qu’il pourra obtenir un entretien RH.
+En effet, elle est conçue de sorte que la personne qui aimerait se faire recruter chez LINKBYNET devra se connecter sur la plateforme avec son compte LinkedIn et effectuer toute une série de tests qui définira son niveau côté compétences techniques, ce n’est qu’après cela qu’il pourra obtenir un entretien RH.
 
 > Historique
 
-Tout à commencerle **02 Septembre 2019** à 08h du matin dans les magnifiques locaux de LinkByNet. Ce jeune motivé et passionné d’informatique venait pour effectuer son stage de 6 mois dans une équipe Architectes (ce sont un peu les masters des masters de la boîte), tu imagines toute la pression que cela peut mettre.
+Tout à commencerle **02 Septembre 2019** à 08h du matin dans les magnifiques locaux de LinkByNet. Ce jeune motivé et passionné d’informatique venait pour effectuer son stage de 6 mois dans une équipe d'Architectes (ce sont un peu les masters des masters de la boîte), tu imagines toute la pression que cela a pu être.
 
 Mes premières heures ont été effectués dans une salle de réunion avec mon tuteur qui me présentait mon objectif de stage et ce qui était attendu à la fin de mon stage.
 
@@ -32,7 +32,7 @@ Mes premières heures ont été effectués dans une salle de réunion avec mon t
     *  Identifier parmi les candidats les meilleurs afin de les recontacter si besoin 
     *   Séduire des candidats avec le savoir-faire de LINKBYNET
 
-  Pour atteindre ses objectifs je devrais répondre à des besoins comme:
+  Pour atteindre ses objectifs je devais répondre à des besoins comme:
 
     *  Avoir un code qui puisse être réutilisé facilement dans d’autres contextes
     *  Générer divers scénarios (*donner la possibilité de créer et de supprimer à la volée*)
@@ -43,7 +43,7 @@ Mes premières heures ont été effectués dans une salle de réunion avec mon t
     *  Un système de backup pour la sauvegarde et la restauration des données 
     * La sécurisation du système.  Ce projet comportait plusieurs risques dus au fait je me lançais dans un domaine totalement inconnu pour moi. 
 
-Ce projet comportait plusieurs risques dû au fait je me lançais dans un domaine totalement inconnu pour moi. Mais en ressortaient deux risques majeurs :
+Ce projet comportait plusieurs risques dû au fait je me lançais dans un domaine totalement inconnu pour moi. Deux risques majeurs en ressortaient :
 
 - **Dépassement budgétaire** (J’avais un budget à respecter) : cela m’a permis aussi d’apprendre la gestion des coûts dans le cloud que l’on appelle
 (**FinOps**)
@@ -69,7 +69,7 @@ Ce projet fut conséquent du fait du grand nombre de technologies qu’il fallai
 
 > Les acteurs du projet
 
-J’avais beaucoup interaction avec les différents membres de mon équiper étant donné qu’ils étaient mis comme support technique sur le projet. Mon manager (Tuteur) interagissait dans le cadre validation et de représentant du client sur le projet. Sinon en dehors de mon équipe, il n’arrivait souvent d'interagir avec d’autres équipes tant qu’ils pouvaient apporter un plus dans mon projet. Grâce à cela j’ai pu améliorer ma **« communication »** au sein d’une équipe.
+J’avais beaucoup interactions avec les différents membres de mon équiper étant donné qu’ils étaient mis comme support technique sur le projet. Mon manager (Tuteur) avait le rôle de répresentant du client sur le projet et il intervenait dans le cadre de la validation. Sinon en dehors de mon équipe, il m’arrivait souvent d'interagir avec d’autres équipes tant qu’ils pouvaient apporter un plus dans mon projet. Grâce à cela j’ai pu améliorer ma **« communication »** au sein d’une équipe.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -85,11 +85,11 @@ J’avais beaucoup interaction avec les différents membres de mon équiper éta
 
   * **Pour l’entreprise** 
 
-      Ce projet aurait permis de mettre en nu certaines difficultés et problèmes de l’entreprise et leur permettra effectivement d’améliorer leurs systèmes de recrutement.
+      Ce projet aurait permis de mettre à nu certaines difficultés et problèmes de l’entreprise et leur permettra effectivement d’améliorer leurs systèmes de recrutement.
 
 > Les lendemains du projet (ses conséquences)
 
-La suite de ce projet m’a conduit à un contrat d’alternance sur 2 ans pour valider mon master. Je dois pendant ses deux ans :
+La suite de ce projet m’a conduit à un contrat d’alternance sur 2 ans pour valider mon master. Je dois pendant ces deux ans :
 
   * Améliorer continuellement la plateforme
   * Développer et améliorer des outils en interne tous baser sur l’architecture cloud 
@@ -107,7 +107,7 @@ La suite de ce projet m’a conduit à un contrat d’alternance sur 2 ans pour 
 
   * **Les enseignements que je retire de ce projet**
 
-    ▪ **Confiance en soi** : car tout est possible dans la vie pour celui qui ose et qui a confiance en soi;
+    ▪ **Confiance en soi** : car tout est possible dans la vie pour celui qui ose;
 
     ▪ **Jamais baisser les bras** : même quand cela paraît impossible ne jamais laisser tomber, sauf si cela vous fera aller de l’avant;
 
@@ -126,9 +126,9 @@ La suite de ce projet m’a conduit à un contrat d’alternance sur 2 ans pour 
 
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/me9.jpg" alt="La Confiance"> La Confiance </a>
-    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/me8.jpg" alt="La Patience"></a>
-    <a href="https://www.credly.com/badges/bace27f2-f367-4f95-98da-8baec1ca43dd/public_url" target="_blank"><img src="/images/me11.jpg" alt="La Patience"></a>
+    <a href="https://eugenemazamda-cloud.com/humans/la-confiance" target="_blank"><img src="/images/me9.jpg" alt="La Confiance"> La Confiance </a>
+    <a href="https://eugenemazamda-cloud.com/humans/la-patience" target="_blank"><img src="/images/me8.jpg" alt="La Patience">La Patience</a>
+  </div>
 </div>
 
 ***
