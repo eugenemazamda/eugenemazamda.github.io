@@ -5,7 +5,7 @@ subtitle: L’Éducation est un Bien Public et Universel (Projet de Vie)
 image: '/images/prometheus.png'
 ---
 
->	Historique 
+> Historique
 
 Tout à commencer en 2017 après un an passé au Sénégal, étant étudiant en Ingénierie des Systèmes et Réseaux Informatiques au sein de l'école MIT University of Dakar, j’ai fait la rencontre d’un homme visionnaire avec des idées futuristes pour le Sénégal. Il fait partir de ses rares personnes qui ont compris que l’évolution de continent africain passera pas une meilleure éducation et formation de la jeunesse.
 
@@ -18,7 +18,7 @@ Avec ce projet nous voulons « Promouvoir une éducation publique, populaire et 
 -	**Collège et Lycée**
 -	**Exclus du système mis en place aujourd’hui** 
 
->	Enjeux du projet 
+> Enjeux du projet 
 
 Les enjeux autours de ce projet sont nombreux dans la mesure où le pays en soi pourrais ouvrir l’éducation tous et cela même au plus démunie, il trouvera une stabilité éducative pour la jeunesse du pays et le bouquet final, ce projet feras du Sénégal le premier pays du continent à mettre en place ce système qui se veut révolutionnaire pour l’Afrique et ainsi ouvriras plus facilement ses portes aux autres pays. 
 
