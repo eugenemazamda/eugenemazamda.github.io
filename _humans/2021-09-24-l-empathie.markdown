@@ -1,7 +1,7 @@
 ---
 title:  L'Empathie
 date:   2021-09-24 15:01:35 +0300
-subtitle:   "[maraude, humans, Africa]"
+subtitle:   "[maraude, human, africa]"
 image:  '/images/maraude.jpg'
 ---
 
@@ -9,19 +9,19 @@ image:  '/images/maraude.jpg'
 
 **L'empathie** c'est la reconnaissance et la compréhension des sentiments et des émotions d'un autre individu.
 
-[Une compétences de leadership](https://www.forbes.fr/management/lempathie-est-la-competence-de-leadership-la-plus-importante-selon-les-recherches/?amp)
+[Une compétence de leadership](https://www.forbes.fr/management/lempathie-est-la-competence-de-leadership-la-plus-importante-selon-les-recherches/?amp)
 
 > Eléments de preuve 
 
-J'ai été amené à mettre de l'empathie vers mes collaborateurs dans certains projets que j'ai réalisés.
+J'ai été amené à faire preuve d'empathie envers mes collaborateurs dans certains projets que j'ai réalisés.
 
-Par exemple, j'avais réalisé un projet avec des amis et camarades de classe au Sénégal pour valider l'année scolaire de licence 2 en Ingénierie des systèmes et réseaux. Le projet consistait à mettre en place une plateforme web pour école qui permettra de mettre en avant les compétences des étudiants. Ce projet faisait appel à différentes compétences techniques (Systèmes, Réseaux, Développement et télécommunication) chose que l'on avait en salle de classe.
+Par exemple, j'avais réalisé un projet avec des amis et camarades de classe au Sénégal pour valider l'année scolaire de licence 2 en Ingénierie des systèmes et réseaux. Le projet consistait à mettre en place une plateforme web pour l'école qui permettra de mettre en avant les compétences des étudiants. Ce projet faisait appel à différentes compétences techniques (Systèmes, Réseaux, Développement et télécommunication) chose que l'on avait en salle de classe.
 
-Mais, malgré avec toutes ses compétences, je me suis rendu compte que l'on ne pourrait pas livrer le projet dans les temps. J'étais vraiment mal et ne comprenais pas pourquoi et comment cela pouvait arriver. J'ai commencé à me poser les bonnes questions et prends le recul nécessaire face à la problématique. J'ai commencé à mener des actions personnelles (allez vers chacun de mes collègues pour comprendre déjà ce que la personne vit personnellement dans son vit et dans la chose qui le préoccupait le plus en ce moment.) j'ai finalement compris que le problème n'était pas dû aux compétences des camarades ou de la mienne, mais des différents problèmes et difficultés que chacun pouvait traverser dans sa vie personnelle à savoir :
+Mais, malgré avec toutes ses compétences, je me suis rendu compte que l'on ne pourrait pas livrer le projet dans les temps. J'étais vraiment mal et ne comprenais pas pourquoi et comment cela pouvait arriver. J'ai commencé à me poser les bonnes questions et prendre le recul nécessaire face à la problématique. J'ai commencé à mener des actions personnelles (allez vers chacun de mes collègues pour comprendre déjà ce que la personne vit personnellement dans sa vie, les choses qui la préoccupait le plus en ce moment). J'ai finalement compris que le problème n'était pas dû aux compétences des camarades ou de la mienne, mais des différents problèmes et difficultés que chacun pouvait traverser dans sa vie personnelle à savoir :
 
 
 - Comment je vais faire pour payer mon loyer ce mois ?
-- Où et comment faire pour gagner un peu d'argent pour finir le mois est assuré les mois à venir ?
+- Où et comment faire pour gagner un peu d'argent pour finir le mois et assurer les mois à venir ?
 - Comment je vais faire pour m'acheter la dernière paire de chaussures et/ou des vêtements à la mode ?
 - Comment je vais faire pour mon rattrapage de telle ou telle matière ? 
 

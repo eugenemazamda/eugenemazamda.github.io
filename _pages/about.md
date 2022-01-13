@@ -24,7 +24,7 @@ J’avais choisi cette filière car l’informatique est une passion depuis mon 
   <!-- <em>Projects</em> -->
 </div>
 
-Comme si cela ne suffisait pas je me suis retrouvé complètement paralysé de toute la partie inférieure de mon corps et cela pendant 1 an, ce fut un coup dur, je me disais que tout était perdu (mes rêves et ma vie), mais j’ai une petite étincelle au fond de moi qui me disait d’y croire d’avoir confiance en moi et foi en Dieu, j’ai trouvé le courage de l’écouter et Dieu m’a guéri et m’a redonné le goût à la vie en 2015. Juste après cela j’ai été contacter par une ONG qui voulait s’installer au Cameroun et avait besoin d’un responsable informatique. Ce poste a ravivé ma flamme pour l’informatique. Ainsi je me retrouve au Sénégal en 2016, mon deuxième pays d’origine car mon père est Sénégalais. J’ai aussi pu retrouver mes racines et apprendre une nouvelle culture.
+Comme si cela ne suffisait pas je me suis retrouvé complètement paralysé de toute la partie inférieure de mon corps et cela pendant 1 an, ce fut un coup dur, je me disais que tout était perdu (mes rêves et ma vie), mais j’ai une petite étincelle au fond de moi qui me disait d’y croire, d’avoir confiance en moi et foi en Dieu, j’ai trouvé le courage de l’écouter et Dieu m’a guéri et m’a redonné le goût à la vie en 2015. Juste après cela j’ai été contacter par une ONG qui voulait s’installer au Cameroun et avait besoin d’un responsable informatique. Ce poste a ravivé ma flamme pour l’informatique. Ainsi je me retrouve au Sénégal en 2016, mon deuxième pays d’origine car mon père est Sénégalais. J’ai aussi pu retrouver mes racines et apprendre une nouvelle culture.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -45,17 +45,16 @@ Mon mariage fut l’un de mes principaux objectifs que j’ai pu concrétiser le
 
 > Qui suis-je vraiment ?
 
-Je suis une personne qui sait s’aimer telle qu’il est, j’aime le travaille bien fait, je suis un peu trop perfectionniste dans tout ce que je fais dans ma vie. J’ai une créativité sans limite et même présentement que je vous parle je suis en train de créer une nouvelle méthode de formation et apprentissage pour les pays africains. Toutefois, je sais rester sensible à toutes choses et personne de mon entourage, je sais les écouter cela me permet de trouver des solutions à chaque problème car j’ai cette facilité. Tout cela demande un sens analyse qui est aussi l’une de mes qualités très important pour prendre des décisions dans la vie.
+Je suis une personne qui sait s’aimer telle qu’il est, j’aime le travaille bien fait, je suis un peu trop perfectionniste dans tout ce que je fais dans ma vie. J’ai une créativité sans limite et même présentement pendant que je vous parle, je suis en train de créer une nouvelle méthode de formation et apprentissage pour les pays africains. Toutefois, je sais rester sensible à toutes chose et personne de mon entourage, je sais les écouter cela me permet de trouver des solutions à chaque problème car j’ai cette facilité. Tout cela demande une capacité d'analyse qui est aussi l’une de mes qualités très important pour prendre des décisions dans la vie.
 Voilà ce que je dirais de ma personnalité.
 
 * **Ce que mon entourage dit de ma personne**
-    * Eugène est une personne honnête, il s’est dit les choses qu’ils soient bons ou mauvais;
-    * Il est un peu trop cérébral il met beaucoup et de fois un peu trop son cerveau au travail peu importe ce que voulait faire avec lui, 
-      si son cerveau ne saisit pas information il ne vous suivra pas, faut souvent le laisser un peu de temps;
-    * Il a un mental déterminé, grande connaissance surtout humble et toujours dans le partage, il réfléchit avec un bon recul et une vision large sur un sujet, 
+    * Eugène est une personne honnête, il s’est dire les choses qu'elles soient bonne ou mauvaise;
+    * Il est un peu trop cérébral, parfois il mets un peu trop son cerveau au travail;
+    * Il a un mental déterminé, de grandes connaissances, surtout humble et toujours dans le partage. Il réfléchit avec un bon recul et une vision large sur un sujet, 
       c'est toujours un plaisir d'échanger avec lui;
-    * Il aime beaucoup la nourriture (la bonne nourriture) il s’empêche de cuisiner s’il le faut lui-même ses plats;
-    *	Eugène est une personne calme, très agréable, déterminé et avec qui c'est un plaisir de travailler. Bosseur, il n’hésitera pas à se donner à 120% pour un projet et/ou un problème. Passionné, il intéresse à tout type d'innovation;
+    * Il aime beaucoup la nourriture (la bonne nourriture) il s’empêche pas de cuisiner s’il le faut lui-même ses plats;
+    *	Eugène est une personne calme, très agréable, déterminé et avec qui c'est un plaisir de travailler. Bosseur, il n’hésitera pas à se donner à 120% pour un projet et/ou un problème. Passionné, il s'intéresse à tout type d'innovation;
     *	Très bon élément, proactif et curieux, s'intègre facilement dans l'équipe et apporte un véritable plus dans la cohésion.
 
 * **Mes points forts**
@@ -68,7 +67,6 @@ Voilà ce que je dirais de ma personnalité.
     *	Techniquement très bon (DevOps, Cloud, développement), accepte et relève les challenges.
 
 * **Mes axes améliorations**
-    * Ne se prononce pas;
     *	Augmenter son leadership en groupe. Cela viendra avec le temps et l’expérience;
     *	Détailler davantage les feedbacks.
 
@@ -84,9 +82,9 @@ les moyens ne permettent pas une chance de réussir et cela grâce à mon domain
 
 > Ce qui me fait vibrer
 
-Ma religion est la base de toute dans ma vie, je fais des efforts pour la mettre au-devant de tout. Puis vient ma famille car pour moi ce sont les seules personnes qui sont avec toi quand tout le monde t’a lâché. Cela étant, l’informatique qui me permet de n’épanouir dans le monde professionnel. Enfin, les voyages je suis un peu nomade à mon âge j’ai déjà fait pas mal de pays et le meilleur reste à finir je une facilité adaptation qui est limite magique.
+Ma religion est la base de toute dans ma vie, je fais des efforts pour la mettre au-devant de tout. Puis vient ma famille car pour moi ce sont les seules personnes qui sont avec toi quand tout le monde t’a lâché. L’informatique qui me permet de n’épanouir dans le monde professionnel. Enfin, les voyages je suis un peu nomade à mon âge j’ai déjà fait pas mal de pays et le meilleur reste à finir j'ai une facilité adaptation qui est limite magique.
 
-**Voilà**, Je dirais que je suis une personne exceptionnelle dans ma manière de faire les choses et de fonctionner. J’ai des valeurs que défend nuit et jours cela me permet d’un part de garder les pieds sur terre peu importe les situations de cette vie.
+**Voilà**, je dirais que je suis une personne exceptionnelle dans ma manière de faire les choses et de fonctionner. J’ai des valeurs que je défend nuit et jour. Cela me permet d’un part de garder les pieds sur terre peu importe les situations de cette vie.
 
 ***
 

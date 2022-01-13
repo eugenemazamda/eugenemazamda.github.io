@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Programmation, Developpement Python & PowerShell
+title:  Programmation, Développement Python & PowerShell
 date:   2020-11-13 15:01:35 +0300
 image:  '/images/programmation.jpg'
 tags:   [dev, cloud, python, powershell]
 categorie: technique
 ---
 
-Développement de plusieurs APIs pour la mise sous infogérance des différents assets cloud des clients LinkByNet, le développement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.
+Développement de plusieurs APIs pour la mise sous infogérance des différents assets cloud des clients Linkbynet, ces APIs sont misent en production via des **Azure Functions (Serverless)**.
 
-J'utilise ses langages de programmation dans la plus tard de mes projets réaliser en entreprise. 
+J'utilise ces langages de programmation dans la plus tard de mes projets. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -22,6 +22,8 @@ J'utilise ses langages de programmation dans la plus tard de mes projets réalis
 
 Azure Functions est une solution serverless qui vous permet d’écrire moins de code, de maintenir une infrastructure plus légère et de réduire les coûts. Au lieu de vous préoccuper du déploiement et de la maintenance des serveurs, l’infrastructure cloud met à votre disposition tous les serveurs à jour nécessaires pour assurer l’exécution de vos applications.
 
+[Source](https://docs.microsoft.com/fr-fr/azure/azure-functions/functions-overview)
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/azure_function.jpg" alt="Project">
@@ -32,9 +34,9 @@ Vous vous concentrez sur les parties de code les plus importantes pour vous, et 
 
 > Mise en pratique 
 
-- Dans le projet **DIA (Déploiement Infrastructure Automatisé)** j'ai repris un projet commencé par un collaborateur et le mettre en production 
-- Développer une API d'authentification sur les différentes souscriptions des clients de LinkByNet 
-- Développer d'une API qui permet de récupérer des credentials de connexions à des souscriptions de nos différents clients 
+- Dans le projet **DIA (Déploiement d'Infrastructure Automatisé)** j'ai repris un projet initié par un collaborateur et le mettre en production 
+- Développer une API d'authentification sur les différentes souscriptions des clients de Linkbynet part of Accenture 
+- Développer une API qui permet de récupérer des credentials de connexions à des souscriptions de nos différents clients 
 - Développer des API de sauvegarde du service **Azure Databricks** pour Sodexo 
 
 ***
@@ -53,7 +55,7 @@ PowerShell est une solution multiplateforme d’automatisation des tâches, comp
 
 > Mise en pratique 
 
-- Développer des **Backdoor (Portes dérobée)** dans un project de Cybersécurité réaliser à école [Cyber Skanda]
+- Développer des **Backdoor (Portes dérobée)** dans un project de Cybersécurité **Cyber Skanda** réalisé à l'école en partenariat avec **Airbus Cyber-Défense**
 - Développer un générateur de mot de passe avec interface graphique 
 - Développer un outil de monitoring pour système Windows 
 - Développer des APIs en Azure PowerShell pour faire la sauvegarde vers un **storage account (SA)** des différents services Azure Cloud
@@ -64,7 +66,7 @@ PowerShell est une solution multiplateforme d’automatisation des tâches, comp
 
 - **Backdoors** : est un programme informatique malveillant utilisé pour donner aux pirates un accès à distance non autorisé à un ordinateur infecté en exploitant les vulnérabilités du système.
 
-> Réalisation associée
+> Réalisation(s) associée(s)
 
 <div class="gallery-box">
   <div class="gallery">

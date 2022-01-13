@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Certifications
+title: CERTIFICATIONS
 image: '/images/me5.jpg'
 ---
 
@@ -17,7 +17,7 @@ image: '/images/me5.jpg'
   </div>
 </div>
 
-> Ma certifications GitLab Associate
+> Ma certification GitLab Associate
 
 <div class="gallery-box">
   <div class="gallery">
@@ -30,6 +30,5 @@ image: '/images/me5.jpg'
 <div class="gallery-box">
   <div class="gallery">
     <a href="https://www.credly.com/badges/5c6f1361-f8cb-412f-8bf8-f81d4072e505/public_url" target="_blank"><img src="/images/itilv4.png" alt="Project"></a>
-    <img src="/images/me7.jpg" alt="Project">
   </div>
 </div>
