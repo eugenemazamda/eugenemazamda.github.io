@@ -29,13 +29,13 @@ Face à tout cela, personnellement comment ne pas avoir de l'empathie pour les a
 
 > Quelle autocritique pouvez-vous apporter à cette compétence ? 
 
-L'Empathie est un atout que les personnes qui le possèdent peuvent réaliser de belles et grandes choses. C'est une chance que Dieu nous à donnée pour comprendre notre prochain. Utilisé d'une bonne manière, cela pourrait être une arme de réussite dans la vie et permettre de faire du bien autour de soi, car certaines personnes ne demandent qu'à être écouté et compris.
+L'Empathie est un atout que les personnes qui la possède peuvent réaliser de belles et grandes choses. C'est une chance que Dieu nous a donné pour comprendre notre prochain. Utilisée d'une bonne manière, cela pourrait être une arme de réussite dans la vie et permettre de faire du bien autour de soi, car certaines personnes ne demandent qu'à être écouté et comprises.
 
-Mais comme une chose peut apporter du bien, cette même chose peut d'apporter du mal s'il est utilisé de la mauvaise manière. L'Empathie peut aussi être une porte d'entrée pour les personnes malveillantes qui ne cherche qu'à vous faire du mal, car ils savent que les personnes avec cette compétence sont de nature sensible. Aussi, la personne empathique à tendance souvent de se laisser emporter par les sentiments d'autrui au point de négligé ou de mettre de côté leurs propres ressentir et sentiments de côté.
+Mais comme une chose peut apporter du bien, cette même chose peut d'apporter du mal si utilisé de la mauvaise manière. L'Empathie peut aussi être une porte d'entrée pour les personnes malveillantes qui ne cherchent qu'à vous faire du mal, car elles savent que les personnes avec cette compétence sont de nature sensible. Aussi, la personne empathique a souvent tendance à se laisser emporter par les sentiments d'autrui au point de négligé ou de mettre de côté ses propres ressentis.
 
 > Comment évoluer dans cette compétence ?
 
-C'est une compétence qui à mon sens est importante d'avoir si l'on veut réussir dans cette société qui est devenue très cruelle où les gens ne se préoccupent pas de ce qu'autrui peut ressentir et vivre dans sa vie personnelle. Étant donné que je serais amené à gérer des personnes, il est important que je continue à travailler cette compétence et sans oublier de me protéger personnelle, ne plus mettre mes sentiments de côté, mais plutôt les mettre en avant et partager avec les autres. 
+C'est une compétence qui à mon sens est importante d'avoir si l'on veut réussir dans cette société qui est devenue très cruelle, où les gens ne se préoccupent pas de ce qu'autrui peut ressentir et vivre dans sa vie personnelle. Étant donné que je serais amené à gérer des personnes, il est important que je continue à travailler cette compétence et sans oublier de me protéger, ne plus mettre mes sentiments de côté, mais plutôt les mettre en avant et partager avec les autres. 
 
 > Les réalisations associées à cette compétence ?
 
