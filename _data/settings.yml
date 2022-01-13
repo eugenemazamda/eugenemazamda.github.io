@@ -12,7 +12,7 @@ menu__settings:
     - title: 'Compétences'
       submenu:
       - url: '/blog/'
-        title: 'Téchniques'
+        title: 'Techniques'
       - url: '/humans/'
         title: 'Transverses'
     - title: 'Personnel'
@@ -36,7 +36,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Eugene Rodolphe MAZAMDA TANGUEU
   title: Eugene Rodolphe 
-  bio: Architecte Junior Cloud & DevOps basé en France, je mets en œuvre des architecture cloud, je conçois des plateformes web et mobile. Je suis également amené à automatiser et industrialiser des infrastructures cloud. Quand je redescends quelques fois sur terre, c’est souvent pour découvrir d’autres horizons et revêtir mon tablier pour faire de la bonne cuisine.  
+  bio: Architecte Cloud & DevOps basé en France, je mets en œuvre des architecture cloud, je conçois des plateformes web et mobile. Je suis également amené à automatiser et industrialiser des infrastructures cloud. Quand je redescends quelques fois sur Terre, c’est souvent pour découvrir d’autres horizons et revêtir mon tablier pour faire de la bonne cuisine.  
   image: '/images/me1.jpg'
   avatar: '/images/me1.jpg'
   button__text: Mes réalisations
@@ -46,19 +46,19 @@ author:
 # Projects Settings
 
 projects__settings:
-  projects__title: Dernières <span class="text-span">Réalisations</span> # Add a 'text-span' class to highlight text.
-  projects__description: Mes meilleures réalisations web, cloud et DevOps construits entièrement avec passion, simplicité et créativité !
+  projects__title: MES DERNIERES <span class="text-span">REALISATIONS</span> # Add a 'text-span' class to highlight text.
+  projects__description: Mes meilleures réalisations web, cloud et DevOps construites entièrement avec passion, simplicité et créativité !
 
 # Humans
 humans__settings:
-  humans__title: Mes <span class="text-span">Compétences Transverses</span> # Add a 'text-span' class to highlight text.
+  humans__title: MES <span class="text-span">COMPETENCES TRANSVERSES</span> # Add a 'text-span' class to highlight text.
   humans__description:
 
 
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: Mes <span class="text-span">Collaborateurs</span> # Add a 'text-span' class to highlight text.
+testimonial__title: MES <span class="text-span">COLLABORATEURS</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
   - name: "Alexandre CHHAN"
@@ -124,14 +124,14 @@ testimonial-items:
 # Blog Section
 
 blog__settings:
-  blog__title: Mes <span class="text-span">Compétences Techniques</span> # Add a 'text-span' class to highlight text.
+  blog__title: MES <span class="text-span">COMPETENCES TECHNIQUES</span> # Add a 'text-span' class to highlight text.
   blog__description:
 
 
 
 # Formations
 formations:
-  formations_title: Mes <span class="text-span">Formations</span>
+  formations_title: MES <span class="text-span">FORMATIONS</span>
   formations_description:
 
 

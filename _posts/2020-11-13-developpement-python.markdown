@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Programmation et Developpement Python & PowerShell
+title:  Programmation, Developpement Python & PowerShell
 date:   2020-11-13 15:01:35 +0300
 image:  '/images/programmation.jpg'
 tags:   [dev, cloud, python, powershell]
 categorie: technique
 ---
 
-Développement de plusieurs APIs pour en la mise sous infogérance des différents assets cloud des clients LinkByNet, le développement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.
+Développement de plusieurs APIs pour la mise sous infogérance des différents assets cloud des clients LinkByNet, le développement de ses APIs sont mis en production via des **Azure Functions (Serverless)**.
 
 J'utilise ses langages de programmation dans la plus tard de mes projets réaliser en entreprise. 
 
