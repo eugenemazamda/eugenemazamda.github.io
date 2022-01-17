@@ -8,11 +8,11 @@ image: '/images/prometheus.png'
 > Historique
 
 Tout commence en 2017 après un an passé au Sénégal, étant qu'étudiant en Ingénierie des Systèmes et Réseaux Informatiques au sein de l'école MIT University of Dakar. 
-J’y ai fait la rencontre d’un homme visionnaire avec des idées futuristes pour le Sénégal. Il fait partir de ses rares personnes qui ont compris que l’évolution du continent africain passera par une meilleure éducation et la formation de la jeunesse.
+J’y ai fait la rencontre d’un homme visionnaire avec des idées futuristes pour le Sénégal. Il fait parti de ses rares personnes qui ont compris que l’évolution du continent africain passera par une meilleure éducation et la formation de la jeunesse.
 
-Étant mon professeur, nous avons échangé sur les différents problèmes qui font que notre continent soit aussi en retard par rapport aux autres. Au bout de cette discussion, nous avons pris la décision de travailler en collaboration sur un projet qui selon nous répond aux différents problèmes. Nous l’avons baptisé **« EDUCOM – L’Éducation est un bien public et Universel »**.
+Etant mon professeur, nous avons échangé sur les différentes problématiques relatives à notre continent. En effet, l’Afrique est en voie de développement et de ce fait est en retard par rapport aux pays industrialisés. Au bout de cette discussion, nous avons pris la décision de travailler ensemble sur un projet de développement, qui selon mon professeur et moi-même, répond aux besoins du continent africain. Ce projet, nous l’avons baptisé **« EDUCOM – L’Éducation est un bien public et Universel »**.
 
-Avec ce projet nous voulons « Promouvoir une éducation publique, populaire et accessible en continu » aux près des :
+Avec ce projet nous voulons « Promouvoir une éducation publique, populaire et accessible en continu » auprès des :
 
 -	**Préscolaire**
 -	**Cours élémentaires**
@@ -21,29 +21,37 @@ Avec ce projet nous voulons « Promouvoir une éducation publique, populaire et 
 
 > Enjeux du projet 
 
-Les enjeux autours de ce projet sont nombreux dans la mesure où le pays en soi pourrais ouvrir l’éducation à tous et cela même au plus démunis, il trouvera une stabilité éducative pour la jeunesse du pays et le bouquet final, ce projet ferais du Sénégal le premier pays du continent à mettre en place ce système qui se veut révolutionnaire pour l’Afrique et ainsi ouvrir plus facilement ses portes aux autres pays. 
+Les enjeux autour de ce projet sont nombreux :
 
-En revanche, si nous ne faisons rien, notre continent continuera à perdre les jeunes avide de connaissance qui immigrons vers l'occident et l'Amérique à la recherche de connaissances, de compétences et surtout d'un meilleur confort de vie. Cette perte est définitive car très peu sont ceux qui décident de revenir dans leurs pays pour le développer.
+Tout d’abord, le Sénégal a la capacité et est en mesure d’ouvrir l’éducation à tous et ce, sans oublier les plus démunis. Malheureusement de nos jours, cette mesure n’est pas appliquée.
 
-En tant que co-fondateur du projet, j’aimerais de tout cœur qu'il se réalise par besoin personnel de contribuer du mieux que je peux aux développement de mon pays et du continent.
+En effet, cela permettra au pays de trouver une stabilité éducative pour la jeunesse d’une part, et ainsi hisser le Sénégal à la 1ère place des pays africains à mettre en place ce système. Un système qui se veut révolutionnaire !
+
+D’autres part, cela permettra également à l’Etat Sénégalais d’ouvrir plus facilement ses portes aux étudiants provenant de l’extérieur.
+
+
+En revanche, sans aucune action, le continent africain poursuivra d’être dépourvu de potentiel futur et jeunes talents, toujours de plus en plus attirés par les plus grandes puissances mondiales à la recherche de connaissances et de compétences ; et surtout d’un meilleur confort de vie. Rare sont ceux qui y retournent dans leur pays natal pour s’y installer et donc développer le pays.
+
+En tant que co-fondateur de ce projet, je souhaite à tout prix que mon rêve se réalise et de contribuer au mieux au développement de mon pays et par définition au continent africain.
+
 
 > Définition du projet 
 
-Prometheus est une plateforme web développé en France à destination de **EDUCOM** au Sénégal. Cette plateforme jouera le rôle de Hub entre le ministère de l’éducation national, enseignants, élèves, parents d’élève et association du système éducatif. Il leurs permettra de collaborer autour des différents programmes scolaires en continu et sans interruption du processus d’éducation. 
+Prometheus est une plateforme web développé en France à destination de **EDUCOM** au Sénégal. Cette plateforme jouera le rôle de Hub entre le ministère de l’éducation national, enseignants, élèves, parents d’élève et associations du système éducatif. Il leurs permettra de collaborer autour des différents programmes scolaires en continu et sans interruption du processus d’éducation. 
 
 Cette synergie au premier niveau va aider le ministère à faire de l’éducation un bien public et universel. Il y aura une synergie au second niveau entre le ministère, l’inspection académique et les directeurs d’écoles, cela s’inscrit dans une logique de management et d’information.
 
-La plateforme « Prometheus » prendra en compte ces deux niveaux de communications pour en faire une interface unique de gestion et d’apprentissage de tous les acteurs passifs et actifs du système éducatif Sénégalais.
+La plateforme « Prometheus » prendra en compte ces deux niveaux de communication pour en faire une interface unique de gestion et d’apprentissage de tous les acteurs passifs et actifs du système éducatif Sénégalais.
 
 Enfin, une partie de la plateforme sera dédiée à la formation en ligne publique et gratuite pour les bénéficiaires.
 
 > Mise en œuvre 
 
-Le projet **EDUCOM** est d'abord approuvé par le ministère de la Jeunesse, du Civisme, du Volontariat et de la Construction Citoyenne et par le ministère de l’éducation nationale. Suite à ses formalité vient le moment de produire techniquement et livrer une plateforme de test qui permettra valider la faisabilité et la fiabilité, afin de pouvoir faire la lévée de fonds et de ressources nécessaires pour la réalisation finale. 
+Le projet **EDUCOM** est d'abord approuvé par le ministère de la Jeunesse, du Civisme, du Volontariat et de la Construction Citoyenne et par le ministère de l’éducation nationale du Sénégal. Suite à ces formalité vient le moment de produire techniquement et de livrer une plateforme de tests qui permettra de valider la faisabilité et la fiabilité du projet. Cette 1ère phase permettra par la suite de monter un dossier afin de faire la levée de fonds et les ressources nécessaires. 
 
-A ce stade il me fallait de la main d’œuvre pour avancer ; j’ai donc sollicité l’aide des camarades de promotion pour la mise en place de cette version test. Nous avons pu réaliser dans les délais cette version qui fut validé par les membres du gouvernement qui ont débloqué les fonds. 
+Grâce à l’aide de mes camarades de promotion, nous avons pu mettre en place cette version bêta-test, version qui a été validée par les membres du gouvernement Sénégalais et qui nous a permis d’effectuer la 1ère levée de fonds.
 
-Mais malheureusement, nous fûmes très vite dépassés par les différentes technologies choisies et surtout, nous avons rencontrés plusieurs différents problèmes non anticipés au départ, à savoir : 
+Cependant, notre enthousiasme fut très vite rattrapée par les différentes problématiques causées par nos choix de technologies. Nous n’avions malheureusement pas assez anticipé les conséquences de nos choix, à savoir : 
 
 -	**Problème de performance** : les technologies que nous avions choisies ne pouvaient pas tenir sur le long terme ni supporter la montée en charge 
 -	**Haute disponibilité** : chose à laquelle nous n’avions pas pensé 
@@ -51,13 +59,13 @@ Mais malheureusement, nous fûmes très vite dépassés par les différentes tec
 -	**Manque de disponibilités** : étant encore étudiant, nous ne pouvions pas nous mettre à 100% sur le projet au risque de valider notre année académique
 
 
-Face à tout cela, j’ai décidé de prendre des décisions pour le bien de mon équipe et nécessaire à la survie du projet. Collectivement nous avons décidé de mettre un stop au projet pour un moment, cela nous à permis de prendre le recul nécessaire et ainsi d'apporter des solutions innovantes et concrètes sur les différentes problématiques : 
+Face à ce constat, nous avons décidé de mettre un  « standby » au projet pour le bien-être de l’équipe et pour la survie du projet. Cette prise de recul, nous a permis de mettre à profit et d’apporter des solutions innovantes sur les problématiques suivantes : 
 
 -	Faire de la veille technologie pour trouver des solutions qui nous permettrons d'avoir une plateforme performante et gérer la problématique de haute disponibilité 
--	De mettre en place une architecture technique fonctionnelle de la plateforme qui s'incrit dans le cadre de notre des attentes de le cadre de notre projet de licence (*d'une pierre deux coups : valider notre année académique et réaliser un projet qui nous tiens à coeur*) 
--	Pour le manque connaissance nous avons pris l'initiative et surtout partant du postulat que **« Avant d'aider son prochain, il faut d’abord s’aider soi-même »**, nous sommes allés chercher les connaissances nécessaires ou manquantes.
+-	De mettre en place une architecture technique fonctionnelle de la plateforme qui s'incrit dans le cadre de nos études et attentes de notre projet de licence (*d'une pierre deux coups : valider notre année académique et réaliser un projet qui nous tiens à coeur*) 
+-	Par manque connaissance, nous avons pris l’initiative de nous faire épauler et surtout partant du postulat que **« Avant d'aider son prochain, il faut d’abord s’aider soi-même »**, nous sommes allés chercher les connaissances nécessaires ou manquantes.
 
-Étant une personne qui aime repousser les limites j’ai décidé de venir me former en France pour acquérir les connaissances nécessaires à la réussite de mon projet et c’est ainsi que j’atterris à IN’TECH Infos Paris avec une partie de mon projet. L’école et mes camarades de promotion ont bien aimé le projet et n'ont accompagnés dans sa mise en œuvre dans le cadre des projets informatique sous le nom de **Prometheus**. Projet que j'ai par la suite livré aux équipes Sénégalaises pour mise en production.
+Étant une personne qui aime repousser les limites j’ai décidé de venir me former en France pour acquérir les connaissances nécessaires à la réussite de mon projet et c’est ainsi que j’atterris à IN’TECH Infos Paris avec une partie de mon projet. L’école et mes camarades de promotion ont bien aimé le projet et m'ont accompagné dans sa mise en œuvre dans le cadre des projets informatique sous le nom de **Prometheus**. Projet que j'ai par la suite livré aux équipes Sénégalaises pour mise en production.
 
 > Compétences développées 
 
